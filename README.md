@@ -31,7 +31,13 @@ usage example: `-d nr`
 usage example: `-n 1000`
 
 ## How to run
-First, you have to copy your dataset into `CoGAT-PPIS-Package/raw_input_sequences/` with the name of `datasetname + _seq.txt` in the form of fasta. For example, your dataset name is `example`, then you should save the sequences into `example_seq.txt` in the form of fasta as follows:
+First, you have to unzip the fine-tuned ProtBERT model as follows:
+
+```bash
+unzip ProtBERT_feature_generator/pytorch_model.bin.zip
+```
+
+Then you can copy your dataset into `CoGAT-PPIS-Package/raw_input_sequences/` with the name of `datasetname + _seq.txt` in the form of fasta. For example, your dataset name is `example`, then you should save the sequences into `example_seq.txt` in the form of fasta as follows:
 
 ```bash
 >1acb_I
