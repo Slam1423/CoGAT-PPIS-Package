@@ -1,0 +1,3465 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTP 2.16.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: ACDSVYAK016
+
+
+Database: All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects
+           763,633,522 sequences; 293,832,624,299 total letters
+Query= 1acb_I
+
+Length=63
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+4H4F_B Chain B, Eglin C [Hirudo medicinalis]                       130     9e-38  100%        
+CAA25380.1 eglin c [synthetic construct]                           130     1e-37  100%        
+P01051.1 RecName: Full=Eglin C [Hirudo medicinalis]                130     1e-37  100%        
+1SIB_I Chain I, EGLIN C [Hirudo medicinalis]                       129     4e-37  98%         
+1CSE_I Chain I, EGLIN C [Hirudo medicinalis]                       128     8e-37  98%         
+1MEE_I Chain I, EGLIN C [Hirudo medicinalis]                       127     9e-37  98%         
+4B2A_B Chain B, EGLIN C [Hirudo medicinalis]                       127     1e-36  98%         
+4B2B_B Chain B, EGLIN C [Hirudo medicinalis]                       127     1e-36  98%         
+4B1T_B Chain B, EGLIN C [Hirudo medicinalis]                       127     1e-36  98%         
+1SBN_I Chain I, EGLIN C [Hirudo medicinalis]                       125     8e-36  97%         
+ATL64851.1 eglin C [Hirudinaria manillensis]                       111     8e-30  83%         
+AWX34409.1 E11 [synthetic construct]                               104     3e-27  70%         
+AWX34410.1 UM10E11 [synthetic construct]                           105     2e-25  70%         
+WEA82370.1 eglin [Hirudinaria manillensis]                         96.7    3e-24  71%         
+UZC49334.1 eglin C [Whitmania pigra]                               84.0    5e-19  65%         
+1EGP_A Chain A, EGLIN-C [Hirudo medicinalis]                       78.6    2e-17  97%         
+XP_044972692.1 subtilisin-chymotrypsin inhibitor-2A-like isofo...  70.5    8e-14  48%         
+XP_044972627.1 subtilisin-chymotrypsin inhibitor-2B-like isofo...  70.5    1e-13  48%         
+XP_044954564.1 subtilisin-chymotrypsin inhibitor-2A-like isofo...  69.3    2e-13  48%         
+XP_044954501.1 subtilisin-chymotrypsin inhibitor-2B-like isofo...  69.7    2e-13  48%         
+CAB71340.2 putative proteinase inhibitor [Hordeum vulgare subs...  68.2    6e-13  47%         
+KAI5017003.1 hypothetical protein ZWY2020_037381 [Hordeum vulg...  70.5    9e-13  48%         
+KAE8772871.1 putative proteinase inhibitor [Hordeum vulgare]       68.9    2e-12  47%         
+KAE8767232.1 putative proteinase inhibitor [Hordeum vulgare]       68.9    2e-12  48%         
+XP_047045827.1 subtilisin-chymotrypsin inhibitor-2A-like [Loli...  66.6    2e-12  52%         
+KAE8802104.1 putative proteinase inhibitor [Hordeum vulgare]       68.2    3e-12  47%         
+KAE8767235.1 putative proteinase inhibitor [Hordeum vulgare]       68.2    3e-12  47%         
+XP_047045896.1 subtilisin-chymotrypsin inhibitor-2A-like [Loli...  66.2    3e-12  50%         
+XP_048547817.1 subtilisin-chymotrypsin inhibitor-2A-like [Trit...  66.2    4e-12  56%         
+XP_051205149.1 subtilisin-chymotrypsin inhibitor-2A-like [Loli...  65.9    5e-12  50%         
+RCV15574.1 hypothetical protein SETIT_3G067300v2 [Setaria ital...  65.1    1e-11  48%         
+OEL36475.1 hypothetical protein BAE44_0002505 [Dichanthelium o...  65.1    1e-11  48%         
+XP_044447755.1 subtilisin-chymotrypsin inhibitor-2B-like [Trit...  65.1    1e-11  49%         
+EMS50346.1 Subtilisin-chymotrypsin inhibitor-2B [Triticum urartu]  64.3    2e-11  45%         
+XP_044381640.1 subtilisin-chymotrypsin inhibitor-2A-like [Trit...  64.3    2e-11  49%         
+XP_021302624.1 subtilisin-chymotrypsin inhibitor-2B [Sorghum b...  64.3    2e-11  48%         
+TKW24716.1 hypothetical protein SEVIR_3G067900v4 [Setaria viri...  63.9    2e-11  48%         
+XP_037481431.1 subtilisin-chymotrypsin inhibitor-2B-like [Trit...  63.9    3e-11  56%         
+KAK1698253.1 hypothetical protein QYE76_014950 [Lolium multifl...  63.5    4e-11  47%         
+XP_048560034.1 subtilisin-chymotrypsin inhibitor-2B-like [Trit...  63.5    7e-11  45%         
+XP_045086733.1 subtilisin-chymotrypsin inhibitor CI-1A-like [A...  64.3    8e-11  48%         
+CAD8200995.1 unnamed protein product [Paramecium pentaurelia]      62.4    1e-10  44%         
+KAF6992956.1 hypothetical protein CFC21_009906 [Triticum aesti...  62.4    1e-10  54%         
+OEL21414.1 hypothetical protein BAE44_0017567 [Dichanthelium o...  61.6    2e-10  47%         
+KAF6987319.1 hypothetical protein CFC21_004974 [Triticum aesti...  62.0    2e-10  44%         
+PUZ63642.1 hypothetical protein GQ55_3G084500 [Panicum hallii ...  61.6    2e-10  48%         
+PAN16830.1 hypothetical protein PAHAL_3G089600 [Panicum hallii]    61.6    2e-10  48%         
+CAD6334932.1 unnamed protein product [Miscanthus lutarioriparius]  61.2    3e-10  47%         
+VAH12531.1 unnamed protein product [Triticum turgidum subsp. d...  61.2    3e-10  42%         
+XP_066363866.1 subtilisin-chymotrypsin inhibitor-2B-like [Misc...  61.2    3e-10  48%         
+XP_047042488.1 subtilisin-chymotrypsin inhibitor-2B-like [Loli...  61.2    4e-10  45%         
+CAD8098956.1 unnamed protein product [Paramecium primaurelia]      60.8    4e-10  43%         
+XP_066363817.1 subtilisin-chymotrypsin inhibitor-2B-like [Misc...  60.8    4e-10  47%         
+XP_066363722.1 subtilisin-chymotrypsin inhibitor-2B-like [Misc...  60.8    4e-10  47%         
+CAD6273286.1 unnamed protein product [Miscanthus lutarioriparius]  60.8    5e-10  45%         
+ACG26179.1 subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]      60.5    5e-10  43%         
+ACG26339.1 subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]      60.5    6e-10  43%         
+XP_066363815.1 subtilisin-chymotrypsin inhibitor-2B-like [Misc...  60.5    6e-10  47%         
+CAD8085834.1 unnamed protein product [Paramecium primaurelia]      60.5    6e-10  48%         
+UJR23214.1 hypothetical protein I4U23_026233 [Adineta vaga]        60.5    6e-10  53%         
+NP_001151896.1 subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]  60.5    6e-10  43%         
+AAK73145.1 putative proteinase inhibitor [Oryza sativa]            60.5    7e-10  44%         
+KAF6987317.1 hypothetical protein CFC21_004972 [Triticum aesti...  60.1    8e-10  42%         
+KAE8767213.1 hypothetical protein D1007_61438 [Hordeum vulgare]    60.1    9e-10  41%         
+CAD6273291.1 unnamed protein product [Miscanthus lutarioriparius]  59.7    1e-09  47%         
+XP_062179291.1 subtilisin-chymotrypsin inhibitor-2B-like [Phra...  59.7    1e-09  44%         
+CAD6273292.1 unnamed protein product [Miscanthus lutarioriparius]  59.7    1e-09  47%         
+XP_039836275.1 subtilisin-chymotrypsin inhibitor-2B-like [Pani...  59.7    1e-09  45%         
+XP_039836276.1 subtilisin-chymotrypsin inhibitor CI-1B-like [P...  59.7    1e-09  45%         
+CAD8208153.1 unnamed protein product [Paramecium octaurelia]       59.3    1e-09  44%         
+XP_040253523.1 subtilisin-chymotrypsin inhibitor-2A [Aegilops ...  59.3    2e-09  42%         
+CAD6334929.1 unnamed protein product [Miscanthus lutarioriparius]  59.3    2e-09  46%         
+EMS48066.1 Subtilisin-chymotrypsin inhibitor-2A [Triticum urartu]  59.3    2e-09  40%         
+CAL4896104.1 unnamed protein product [Urochloa decumbens]          58.9    2e-09  45%         
+XP_047311225.1 subtilisin inhibitor CLSI-I-like [Impatiens gla...  59.3    2e-09  47%         
+OMO87611.1 hypothetical protein CCACVL1_08885 [Corchorus capsu...  63.2    2e-09  47%         
+XP_015618062.1 subtilisin-chymotrypsin inhibitor-2A [Oryza sat...  58.9    2e-09  44%         
+XP_014754372.1 subtilisin-chymotrypsin inhibitor-2A [Brachypod...  58.9    3e-09  45%         
+KAF7066388.1 hypothetical protein CFC21_072381 [Triticum aesti...  58.9    3e-09  45%         
+XP_051224149.1 subtilisin-chymotrypsin inhibitor-2A-like [Loli...  58.5    3e-09  44%         
+PAN16828.1 hypothetical protein PAHAL_3G089500 [Panicum hallii]    58.5    3e-09  44%         
+XP_044393363.1 subtilisin-chymotrypsin inhibitor-2B-like [Trit...  59.3    3e-09  45%         
+KAF6982041.1 hypothetical protein CFC21_000479 [Triticum aesti...  58.5    3e-09  42%         
+XP_037431212.1 subtilisin-chymotrypsin inhibitor-2B-like [Trit...  59.3    3e-09  45%         
+XP_039836267.1 subtilisin-chymotrypsin inhibitor-2B-like isofo...  58.5    5e-09  47%         
+CAD6273284.1 unnamed protein product [Miscanthus lutarioriparius]  58.9    5e-09  45%         
+XP_039836274.1 subtilisin-chymotrypsin inhibitor-2B-like isofo...  58.9    5e-09  47%         
+XP_044401546.1 subtilisin-chymotrypsin inhibitor-2B-like [Trit...  58.9    5e-09  45%         
+XP_062181709.1 subtilisin-chymotrypsin inhibitor-2B-like isofo...  58.2    5e-09  44%         
+KAF6981867.1 hypothetical protein CFC21_000315 [Triticum aesti...  58.2    6e-09  42%         
+XP_039803123.1 subtilisin-chymotrypsin inhibitor-2B-like [Pani...  58.2    6e-09  44%         
+CAF1367699.1 unnamed protein product [Rotaria sordida]             58.2    6e-09  48%         
+KAE8819411.1 hypothetical protein D1007_02636 [Hordeum vulgare]    58.2    6e-09  42%         
+EES18872.1 hypothetical protein SORBI_3009G009800 [Sorghum bic...  57.8    6e-09  44%         
+OMO75070.1 Proteinase inhibitor I13, potato inhibitor I [Corch...  58.9    6e-09  44%         
+KAK3120480.1 hypothetical protein QOZ80_9AG0688390 [Eleusine c...  59.3    7e-09  53%         
+KAK3119255.1 hypothetical protein QOZ80_9BG0716690 [Eleusine c...  59.3    7e-09  53%         
+XP_044955281.1 subtilisin inhibitor-like [Hordeum vulgare subs...  57.8    7e-09  42%         
+CAD6273287.1 unnamed protein product [Miscanthus lutarioriparius]  57.8    7e-09  45%         
+XP_062179303.1 subtilisin-chymotrypsin inhibitor-2B-like [Phra...  57.8    8e-09  44%         
+
+ALIGNMENTS
+>4H4F_B Chain B, Eglin C [Hirudo medicinalis]
+Length=70
+
+ Score = 130 bits (327),  Expect = 9e-38, Method: Compositional matrix adjust.
+ Identities = 63/63 (100%), Positives = 63/63 (100%), Gaps = 0/63 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP
+Sbjct  8   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  67
+
+Query  61  HVG  63
+           HVG
+Sbjct  68  HVG  70
+
+
+>CAA25380.1 eglin c [synthetic construct]
+Length=71
+
+ Score = 130 bits (327),  Expect = 1e-37, Method: Compositional matrix adjust.
+ Identities = 63/63 (100%), Positives = 63/63 (100%), Gaps = 0/63 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP
+Sbjct  9   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  68
+
+Query  61  HVG  63
+           HVG
+Sbjct  69  HVG  71
+
+
+>P01051.1 RecName: Full=Eglin C [Hirudo medicinalis]
+ 1ACB_I Chain I, Eglin C [Hirudo medicinalis]
+ 1EGL_A Chain A, EGLIN C [Hirudo medicinalis]
+ 1TEC_I Chain I, EGLIN C [Hirudo medicinalis]
+ 2TEC_I Chain I, EGLIN C [Hirudinaria manillensis]
+ 3TEC_I Chain I, EGLIN C [Hirudinaria manillensis]
+ prf||0905140A eglin c [Hirudinea]
+Length=70
+
+ Score = 130 bits (326),  Expect = 1e-37, Method: Compositional matrix adjust.
+ Identities = 63/63 (100%), Positives = 63/63 (100%), Gaps = 0/63 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP
+Sbjct  8   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  67
+
+Query  61  HVG  63
+           HVG
+Sbjct  68  HVG  70
+
+
+>1SIB_I Chain I, EGLIN C [Hirudo medicinalis]
+Length=70
+
+ Score = 129 bits (323),  Expect = 4e-37, Method: Compositional matrix adjust.
+ Identities = 62/63 (98%), Positives = 63/63 (100%), Gaps = 0/63 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRV+VFYNPGTNVVNHVP
+Sbjct  8   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVKVFYNPGTNVVNHVP  67
+
+Query  61  HVG  63
+           HVG
+Sbjct  68  HVG  70
+
+
+>1CSE_I Chain I, EGLIN C [Hirudo medicinalis]
+ 2SEC_I Chain I, EGLIN C [Hirudo medicinalis]
+Length=70
+
+ Score = 128 bits (321),  Expect = 8e-37, Method: Compositional matrix adjust.
+ Identities = 62/63 (98%), Positives = 63/63 (100%), Gaps = 0/63 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KSFPEVVGKTVDQAREYFTLHYPQY+VYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP
+Sbjct  8   KSFPEVVGKTVDQAREYFTLHYPQYNVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  67
+
+Query  61  HVG  63
+           HVG
+Sbjct  68  HVG  70
+
+
+>1MEE_I Chain I, EGLIN C [Hirudo medicinalis]
+Length=64
+
+ Score = 127 bits (320),  Expect = 9e-37, Method: Compositional matrix adjust.
+ Identities = 62/63 (98%), Positives = 63/63 (100%), Gaps = 0/63 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KSFPEVVGKTVDQAREYFTLHYPQY+VYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP
+Sbjct  2   KSFPEVVGKTVDQAREYFTLHYPQYNVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  61
+
+Query  61  HVG  63
+           HVG
+Sbjct  62  HVG  64
+
+
+>4B2A_B Chain B, EGLIN C [Hirudo medicinalis]
+ 4B2A_D Chain D, EGLIN C [Hirudo medicinalis]
+Length=66
+
+ Score = 127 bits (320),  Expect = 1e-36, Method: Compositional matrix adjust.
+ Identities = 62/63 (98%), Positives = 62/63 (98%), Gaps = 0/63 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVT DLRYNRVRVFYNPGTNVVNHVP
+Sbjct  4   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTKDLRYNRVRVFYNPGTNVVNHVP  63
+
+Query  61  HVG  63
+           HVG
+Sbjct  64  HVG  66
+
+
+>4B2B_B Chain B, EGLIN C [Hirudo medicinalis]
+ 4B2B_D Chain D, EGLIN C [Hirudo medicinalis]
+ 4B2C_B Chain B, EGLIN C [Hirudo medicinalis]
+ 4B2C_D Chain D, EGLIN C [Hirudo medicinalis]
+Length=71
+
+ Score = 127 bits (320),  Expect = 1e-36, Method: Compositional matrix adjust.
+ Identities = 62/63 (98%), Positives = 62/63 (98%), Gaps = 0/63 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVT DLRYNRVRVFYNPGTNVVNHVP
+Sbjct  9   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTKDLRYNRVRVFYNPGTNVVNHVP  68
+
+Query  61  HVG  63
+           HVG
+Sbjct  69  HVG  71
+
+
+>4B1T_B Chain B, EGLIN C [Hirudo medicinalis]
+ 4B1T_D Chain D, EGLIN C [Hirudo medicinalis]
+Length=70
+
+ Score = 127 bits (319),  Expect = 1e-36, Method: Compositional matrix adjust.
+ Identities = 62/63 (98%), Positives = 62/63 (98%), Gaps = 0/63 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVT DLRYNRVRVFYNPGTNVVNHVP
+Sbjct  8   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTKDLRYNRVRVFYNPGTNVVNHVP  67
+
+Query  61  HVG  63
+           HVG
+Sbjct  68  HVG  70
+
+
+>1SBN_I Chain I, EGLIN C [Hirudo medicinalis]
+Length=70
+
+ Score = 125 bits (315),  Expect = 8e-36, Method: Compositional matrix adjust.
+ Identities = 61/63 (97%), Positives = 62/63 (98%), Gaps = 0/63 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KSFPEVVGKTVDQAREYFTLHYPQY+VYFLPEGSPVT DLRYNRVRVFYNPGTNVVNHVP
+Sbjct  8   KSFPEVVGKTVDQAREYFTLHYPQYNVYFLPEGSPVTRDLRYNRVRVFYNPGTNVVNHVP  67
+
+Query  61  HVG  63
+           HVG
+Sbjct  68  HVG  70
+
+
+>ATL64851.1 eglin C [Hirudinaria manillensis]
+Length=87
+
+ Score = 111 bits (277),  Expect = 8e-30, Method: Compositional matrix adjust.
+ Identities = 52/63 (83%), Positives = 58/63 (92%), Gaps = 0/63 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           +SFP+VVGKTV+QAREYF LH+PQYDV FLPEGSPVTLDLRYNRVRVFYNP TN+VNH P
+Sbjct  25  RSFPDVVGKTVEQAREYFRLHHPQYDVIFLPEGSPVTLDLRYNRVRVFYNPHTNLVNHTP  84
+
+Query  61  HVG  63
+           + G
+Sbjct  85  YAG  87
+
+
+>AWX34409.1 E11 [synthetic construct]
+Length=89
+
+ Score = 104 bits (260),  Expect = 3e-27, Method: Compositional matrix adjust.
+ Identities = 57/81 (70%), Positives = 59/81 (73%), Gaps = 18/81 (22%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEG-SPVTLD-----------------LRY  42
+           KS+PEVVGKTVDQAREYFTLHYPQYDVYFLPEG +PV  D                   Y
+Sbjct  9   KSWPEVVGKTVDQAREYFTLHYPQYDVYFLPEGAAPVGKDYTSVEQCEISIARKPVVAGY  68
+
+Query  43  NRVRVFYNPGTNVVNHVPHVG  63
+           NRVRVFYNPGTNVVNHVPHVG
+Sbjct  69  NRVRVFYNPGTNVVNHVPHVG  89
+
+
+>AWX34410.1 UM10E11 [synthetic construct]
+Length=290
+
+ Score = 105 bits (262),  Expect = 2e-25, Method: Compositional matrix adjust.
+ Identities = 57/81 (70%), Positives = 59/81 (73%), Gaps = 18/81 (22%)
+
+Query  1    KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEG-SPVTLD-----------------LRY  42
+            KS+PEVVGKTVDQAREYFTLHYPQYDVYFLPEG +PV  D                   Y
+Sbjct  210  KSWPEVVGKTVDQAREYFTLHYPQYDVYFLPEGAAPVGKDYTSVEQCEISIARKPVVAGY  269
+
+Query  43   NRVRVFYNPGTNVVNHVPHVG  63
+            NRVRVFYNPGTNVVNHVPHVG
+Sbjct  270  NRVRVFYNPGTNVVNHVPHVG  290
+
+
+>WEA82370.1 eglin, partial [Hirudinaria manillensis]
+Length=70
+
+ Score = 96.7 bits (239),  Expect = 3e-24, Method: Compositional matrix adjust.
+ Identities = 45/63 (71%), Positives = 54/63 (86%), Gaps = 0/63 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           +SFP+VVGKTV QA+EYF LH+PQYDV+ LPEGS VT+D+RY+RVRVFYNP TN V+  P
+Sbjct  8   RSFPDVVGKTVKQAQEYFKLHFPQYDVHILPEGSLVTMDIRYDRVRVFYNPRTNRVDETP  67
+
+Query  61  HVG  63
+            VG
+Sbjct  68  FVG  70
+
+
+>UZC49334.1 eglin C [Whitmania pigra]
+Length=85
+
+ Score = 84.0 bits (206),  Expect = 5e-19, Method: Compositional matrix adjust.
+ Identities = 41/63 (65%), Positives = 49/63 (78%), Gaps = 0/63 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           + FP VVGK V+ AREYF +H PQ +V+FLPEGS VT DLRYNR+RVFY+  TN+V  VP
+Sbjct  23  ERFPNVVGKAVEVAREYFKVHRPQLEVHFLPEGSFVTADLRYNRLRVFYDTNTNLVVDVP  82
+
+Query  61  HVG  63
+            VG
+Sbjct  83  VVG  85
+
+
+>1EGP_A Chain A, EGLIN-C [Hirudo medicinalis]
+Length=45
+
+ Score = 78.6 bits (192),  Expect = 2e-17, Method: Compositional matrix adjust.
+ Identities = 37/38 (97%), Positives = 38/38 (100%), Gaps = 0/38 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTL  38
+           KSFPEVVGKTVDQAREYFTLHYPQY+VYFLPEGSPVTL
+Sbjct  8   KSFPEVVGKTVDQAREYFTLHYPQYNVYFLPEGSPVTL  45
+
+
+>XP_044972692.1 subtilisin-chymotrypsin inhibitor-2A-like isoform X3 [Hordeum 
+vulgare subsp. vulgare]
+ AAM22830.1 CI2C [Hordeum vulgare subsp. vulgare]
+Length=74
+
+ Score = 70.5 bits (171),  Expect = 8e-14, Method: Compositional matrix adjust.
+ Identities = 30/62 (48%), Positives = 42/62 (68%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVGK++++A+E      P+ D+  LP GSPVTLD R NRVR+F     + V  +PH
+Sbjct  17  SWPEVVGKSIEEAKEIILKDMPEADIVVLPAGSPVTLDFRTNRVRIFV----DTVASIPH  72
+
+Query  62  VG  63
+           +G
+Sbjct  73  IG  74
+
+
+>XP_044972627.1 subtilisin-chymotrypsin inhibitor-2B-like isoform X2 [Hordeum 
+vulgare subsp. vulgare]
+Length=89
+
+ Score = 70.5 bits (171),  Expect = 1e-13, Method: Compositional matrix adjust.
+ Identities = 30/62 (48%), Positives = 42/62 (68%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVGK++++A+E      P+ D+  LP GSPVTLD R NRVR+F     + V  +PH
+Sbjct  32  SWPEVVGKSIEEAKEIILKDMPEADIVVLPAGSPVTLDFRTNRVRIFV----DTVASIPH  87
+
+Query  62  VG  63
+           +G
+Sbjct  88  IG  89
+
+
+>XP_044954564.1 subtilisin-chymotrypsin inhibitor-2A-like isoform X2 [Hordeum 
+vulgare subsp. vulgare]
+Length=74
+
+ Score = 69.3 bits (168),  Expect = 2e-13, Method: Compositional matrix adjust.
+ Identities = 30/62 (48%), Positives = 41/62 (66%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVGK++++A+E      P  D++ LP GSPVTLD R NRVR+F     + V   PH
+Sbjct  17  SWPEVVGKSIEEAKEIILKDMPDADIFVLPAGSPVTLDFRSNRVRIFV----DTVASTPH  72
+
+Query  62  VG  63
+           +G
+Sbjct  73  IG  74
+
+
+>XP_044954501.1 subtilisin-chymotrypsin inhibitor-2B-like isoform X1 [Hordeum 
+vulgare subsp. vulgare]
+Length=89
+
+ Score = 69.7 bits (169),  Expect = 2e-13, Method: Compositional matrix adjust.
+ Identities = 30/62 (48%), Positives = 41/62 (66%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVGK++++A+E      P  D++ LP GSPVTLD R NRVR+F     + V   PH
+Sbjct  32  SWPEVVGKSIEEAKEIILKDMPDADIFVLPAGSPVTLDFRSNRVRIFV----DTVASTPH  87
+
+Query  62  VG  63
+           +G
+Sbjct  88  IG  89
+
+
+>CAB71340.2 putative proteinase inhibitor [Hordeum vulgare subsp. vulgare]
+Length=74
+
+ Score = 68.2 bits (165),  Expect = 6e-13, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 40/62 (65%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEV GK++++A+E      P+ D+  LP GSPVTLD R NRVR+F     + V   PH
+Sbjct  17  SWPEVAGKSIEEAKEIILKDMPEADIVVLPAGSPVTLDFRTNRVRIFV----DTVASTPH  72
+
+Query  62  VG  63
+           +G
+Sbjct  73  IG  74
+
+
+>KAI5017003.1 hypothetical protein ZWY2020_037381 [Hordeum vulgare]
+Length=188
+
+ Score = 70.5 bits (171),  Expect = 9e-13, Method: Compositional matrix adjust.
+ Identities = 30/62 (48%), Positives = 41/62 (66%), Gaps = 4/62 (6%)
+
+Query  2    SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+            S+PEVVGK++++A+E      P  D++ LP GSPVTLD R NRVR+F     + V   PH
+Sbjct  131  SWPEVVGKSIEEAKEIILKDMPDADIFVLPAGSPVTLDFRSNRVRIF----VDTVASTPH  186
+
+Query  62   VG  63
+            +G
+Sbjct  187  IG  188
+
+
+>KAE8772871.1 putative proteinase inhibitor [Hordeum vulgare]
+Length=145
+
+ Score = 68.9 bits (167),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 41/62 (66%), Gaps = 4/62 (6%)
+
+Query  2    SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+            S+PEVVGK++++A+E      P+ D+  LP GSPVT+D R NRVR+F     + V   PH
+Sbjct  88   SWPEVVGKSIEEAKEIILKDMPEADIVVLPAGSPVTMDFRSNRVRIFV----DTVATTPH  143
+
+Query  62   VG  63
+            +G
+Sbjct  144  IG  145
+
+
+ Score = 63.5 bits (153),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 25/49 (51%), Positives = 35/49 (71%), Gaps = 0/49 (0%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYN  50
+           S+PEVVGK++++A+E      P+ D+  LP GSPVTLD R NRVR+  +
+Sbjct  17  SWPEVVGKSIEEAKEIILKDMPEADIVVLPAGSPVTLDFRTNRVRIMVD  65
+
+
+>KAE8767232.1 putative proteinase inhibitor [Hordeum vulgare]
+Length=148
+
+ Score = 68.9 bits (167),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 30/62 (48%), Positives = 40/62 (65%), Gaps = 4/62 (6%)
+
+Query  2    SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+            S+PEVVGK++++A+E      P  D+  LP GSPVTLD R NRVR+F     + V   PH
+Sbjct  91   SWPEVVGKSIEEAKEVILKDMPDADIVVLPAGSPVTLDFRTNRVRIFV----DTVASTPH  146
+
+Query  62   VG  63
+            +G
+Sbjct  147  IG  148
+
+
+ Score = 49.3 bits (116),  Expect = 7e-05, Method: Compositional matrix adjust.
+ Identities = 20/49 (41%), Positives = 31/49 (63%), Gaps = 0/49 (0%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYN  50
+           S+PE+VGK+++ AR+      P+ D+  LP  S VT + R NRVR+  +
+Sbjct  20  SWPELVGKSIEDARKVILKDMPEADIKVLPVDSVVTAEWRSNRVRILVD  68
+
+
+>XP_047045827.1 subtilisin-chymotrypsin inhibitor-2A-like [Lolium rigidum]
+Length=75
+
+ Score = 66.6 bits (161),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 32/62 (52%), Positives = 37/62 (60%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEV GKT+ +ARE      P  D+  LPEGSPVT D R NRVR+F       V   PH
+Sbjct  18  SWPEVAGKTIKEAREIILKDMPDADIVVLPEGSPVTRDFRTNRVRIFV----GTVEGTPH  73
+
+Query  62  VG  63
+           VG
+Sbjct  74  VG  75
+
+
+>KAE8802104.1 putative proteinase inhibitor [Hordeum vulgare]
+Length=133
+
+ Score = 68.2 bits (165),  Expect = 3e-12, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 41/62 (66%), Gaps = 4/62 (6%)
+
+Query  2    SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+            S+PEVVGK++++A+E      P+ D+  LP GSPVT+D R NRVR+F     + V   PH
+Sbjct  76   SWPEVVGKSIEEAKEIILKDMPEADIVVLPAGSPVTMDFRSNRVRIFV----DTVATTPH  131
+
+Query  62   VG  63
+            +G
+Sbjct  132  IG  133
+
+
+>KAE8767235.1 putative proteinase inhibitor [Hordeum vulgare]
+Length=133
+
+ Score = 68.2 bits (165),  Expect = 3e-12, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 41/62 (66%), Gaps = 4/62 (6%)
+
+Query  2    SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+            S+PEVVGK++++A+E      P+ D+  LP GSPVT+D R NRVR+F     + V   PH
+Sbjct  76   SWPEVVGKSIEEAKEIILKDMPEADIVVLPAGSPVTMDFRSNRVRIFV----DTVATTPH  131
+
+Query  62   VG  63
+            +G
+Sbjct  132  IG  133
+
+
+>XP_047045896.1 subtilisin-chymotrypsin inhibitor-2A-like [Lolium rigidum]
+Length=74
+
+ Score = 66.2 bits (160),  Expect = 3e-12, Method: Compositional matrix adjust.
+ Identities = 31/62 (50%), Positives = 37/62 (60%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PE+ GKT+ +ARE      P  D+  LPEGSPVT D R NRVR+F       V   PH
+Sbjct  17  SWPELAGKTIKEAREIILKDMPDADIVVLPEGSPVTKDFRTNRVRIFV----GTVEGTPH  72
+
+Query  62  VG  63
+           VG
+Sbjct  73  VG  74
+
+
+>XP_048547817.1 subtilisin-chymotrypsin inhibitor-2A-like [Triticum urartu]
+Length=76
+
+ Score = 66.2 bits (160),  Expect = 4e-12, Method: Compositional matrix adjust.
+ Identities = 28/50 (56%), Positives = 37/50 (74%), Gaps = 0/50 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYN  50
+           KS+PEVVGK++ +ARE      P+ D+  LP G+PVTLDLR NRVR+F +
+Sbjct  18  KSWPEVVGKSIKEAREIILKDKPEADIVVLPAGAPVTLDLRPNRVRIFVD  67
+
+
+>XP_051205149.1 subtilisin-chymotrypsin inhibitor-2A-like [Lolium perenne]
+Length=73
+
+ Score = 65.9 bits (159),  Expect = 5e-12, Method: Compositional matrix adjust.
+ Identities = 31/62 (50%), Positives = 38/62 (61%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEV GKT+ +ARE      P  ++  LPEGSPVT D R NRVR+F       V+  PH
+Sbjct  16  SWPEVAGKTIKEAREIILKDMPDAEIVVLPEGSPVTRDFRTNRVRIFV----GTVDGTPH  71
+
+Query  62  VG  63
+           VG
+Sbjct  72  VG  73
+
+
+>RCV15574.1 hypothetical protein SETIT_3G067300v2 [Setaria italica]
+Length=74
+
+ Score = 65.1 bits (157),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 30/62 (48%), Positives = 41/62 (66%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A++      P  D+  LP GSPVTLDLR +RVR+F     + V+  PH
+Sbjct  17  SWPEVVGMSVEEAKKVILKDKPDADIVVLPVGSPVTLDLRLDRVRIFV----DTVSQTPH  72
+
+Query  62  VG  63
+           VG
+Sbjct  73  VG  74
+
+
+>OEL36475.1 hypothetical protein BAE44_0002505 [Dichanthelium oligosanthes]
+Length=71
+
+ Score = 65.1 bits (157),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 30/62 (48%), Positives = 40/62 (65%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++AR+      P  D+  LP GSPVT+DLR NRVR+F     ++V   PH
+Sbjct  14  SWPEVVGLSVEEARKVILKDKPDADIVVLPVGSPVTMDLRLNRVRIFV----DIVAQTPH  69
+
+Query  62  VG  63
+           V 
+Sbjct  70  VA  71
+
+
+>XP_044447755.1 subtilisin-chymotrypsin inhibitor-2B-like [Triticum aestivum]
+ XP_044447757.1 subtilisin-chymotrypsin inhibitor-2B-like [Triticum aestivum]
+ KAF6992957.1 hypothetical protein CFC21_009907 [Triticum aestivum]
+Length=78
+
+ Score = 65.1 bits (157),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 31/63 (49%), Positives = 39/63 (62%), Gaps = 4/63 (6%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KS+PEVVGK++ +ARE      P  D+  LP GSPVT DLR NRVR+F     + V+  P
+Sbjct  20  KSWPEVVGKSIKEAREIILKDKPDADIVVLPAGSPVTRDLRPNRVRIFV----DTVDDTP  75
+
+Query  61  HVG  63
+             G
+Sbjct  76  FTG  78
+
+
+>EMS50346.1 Subtilisin-chymotrypsin inhibitor-2B [Triticum urartu]
+Length=76
+
+ Score = 64.3 bits (155),  Expect = 2e-11, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 40/62 (65%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PE+VGK++++ARE      P+ D+  LP GS VT+DLR NRVR+F     + V   P 
+Sbjct  19  SWPELVGKSIEEAREVILKDMPEADIVVLPTGSAVTMDLRSNRVRIFV----DTVATAPT  74
+
+Query  62  VG  63
+           +G
+Sbjct  75  IG  76
+
+
+>XP_044381640.1 subtilisin-chymotrypsin inhibitor-2A-like [Triticum aestivum]
+ KAF6987306.1 hypothetical protein CFC21_004962 [Triticum aestivum]
+ VAH12489.1 unnamed protein product [Triticum turgidum subsp. durum]
+Length=78
+
+ Score = 64.3 bits (155),  Expect = 2e-11, Method: Compositional matrix adjust.
+ Identities = 31/63 (49%), Positives = 39/63 (62%), Gaps = 4/63 (6%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KS+PEVVGK++ +ARE      P  D+  LP GSPVT DLR NRVR+F     ++V   P
+Sbjct  20  KSWPEVVGKSIKEAREIILKDKPDADIVVLPAGSPVTRDLRPNRVRIFV----DIVADTP  75
+
+Query  61  HVG  63
+             G
+Sbjct  76  FTG  78
+
+
+>XP_021302624.1 subtilisin-chymotrypsin inhibitor-2B [Sorghum bicolor]
+ EES18868.1 hypothetical protein SORBI_3009G009500 [Sorghum bicolor]
+ KAG0516510.1 hypothetical protein BDA96_09G009300 [Sorghum bicolor]
+ KAG0516511.1 hypothetical protein BDA96_09G009300 [Sorghum bicolor]
+Length=74
+
+ Score = 64.3 bits (155),  Expect = 2e-11, Method: Compositional matrix adjust.
+ Identities = 30/62 (48%), Positives = 40/62 (65%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVGK+V++A++      P  D+  LP GSPVT+D R NRVR+F     + V   PH
+Sbjct  17  SWPEVVGKSVEEAKKVILKDKPDADIVVLPVGSPVTMDYRTNRVRIFV----DTVAQTPH  72
+
+Query  62  VG  63
+           VG
+Sbjct  73  VG  74
+
+
+>TKW24716.1 hypothetical protein SEVIR_3G067900v4 [Setaria viridis]
+Length=70
+
+ Score = 63.9 bits (154),  Expect = 2e-11, Method: Compositional matrix adjust.
+ Identities = 30/62 (48%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S PEVVG +V++A++      P  D+  LP GSPVTLDLR +RVR+F     + V   PH
+Sbjct  13  SLPEVVGMSVEEAKKVILKDKPDADIVVLPVGSPVTLDLRLDRVRIFV----DTVAQTPH  68
+
+Query  62  VG  63
+           VG
+Sbjct  69  VG  70
+
+
+>XP_037481431.1 subtilisin-chymotrypsin inhibitor-2B-like [Triticum dicoccoides]
+ KAF6982042.1 hypothetical protein CFC21_000480 [Triticum aestivum]
+Length=78
+
+ Score = 63.9 bits (154),  Expect = 3e-11, Method: Compositional matrix adjust.
+ Identities = 28/50 (56%), Positives = 35/50 (70%), Gaps = 0/50 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYN  50
+           KS+PEVVGK++ +ARE      P  D+  LP GSPVT DLR NRVR+F +
+Sbjct  20  KSWPEVVGKSIKEAREIILKDKPDADIVVLPAGSPVTRDLRPNRVRIFVD  69
+
+
+>KAK1698253.1 hypothetical protein QYE76_014950 [Lolium multiflorum]
+Length=78
+
+ Score = 63.5 bits (153),  Expect = 4e-11, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PE+VGKT+ +ARE      P  ++  LP GSPVTLD R +RVR+F     + V   PH
+Sbjct  21  SWPELVGKTIKEAREIILKDKPDANIVVLPAGSPVTLDYRTDRVRIFV----DTVADAPH  76
+
+Query  62  VG  63
+           +G
+Sbjct  77  IG  78
+
+
+>XP_048560034.1 subtilisin-chymotrypsin inhibitor-2B-like [Triticum urartu]
+Length=104
+
+ Score = 63.5 bits (153),  Expect = 7e-11, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 40/62 (65%), Gaps = 4/62 (6%)
+
+Query  2    SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+            S+PE+VGK++++ARE      P+ D+  LP GS VT+DLR NRVR+F     + V   P 
+Sbjct  47   SWPELVGKSIEEAREVILKDMPEADIVVLPTGSAVTMDLRSNRVRIFV----DTVATAPT  102
+
+Query  62   VG  63
+            +G
+Sbjct  103  IG  104
+
+
+>XP_045086733.1 subtilisin-chymotrypsin inhibitor CI-1A-like [Aegilops tauschii 
+subsp. strangulata]
+Length=137
+
+ Score = 64.3 bits (155),  Expect = 8e-11, Method: Compositional matrix adjust.
+ Identities = 30/63 (48%), Positives = 40/63 (63%), Gaps = 4/63 (6%)
+
+Query  1    KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+            K++PEVVGK++ +ARE      P+ D+  LP G+PVTLDLR NRVR+F     + V   P
+Sbjct  79   KAWPEVVGKSIKEAREIILKDKPEADIVVLPAGAPVTLDLRPNRVRIF----VDTVAETP  134
+
+Query  61   HVG  63
+              G
+Sbjct  135  FTG  137
+
+
+>CAD8200995.1 unnamed protein product [Paramecium pentaurelia]
+Length=71
+
+ Score = 62.4 bits (150),  Expect = 1e-10, Method: Compositional matrix adjust.
+ Identities = 28/63 (44%), Positives = 40/63 (63%), Gaps = 1/63 (2%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KS+PE VGKT D+A++       + +V  LP+ S VT+D R NRVRVF++    +V   P
+Sbjct  10  KSWPECVGKTADEAKQIILADNAELNVQLLPQDSMVTMDYRTNRVRVFHDE-NGIVKQAP  68
+
+Query  61  HVG  63
+           H+G
+Sbjct  69  HIG  71
+
+
+>KAF6992956.1 hypothetical protein CFC21_009906 [Triticum aestivum]
+Length=76
+
+ Score = 62.4 bits (150),  Expect = 1e-10, Method: Compositional matrix adjust.
+ Identities = 27/50 (54%), Positives = 36/50 (72%), Gaps = 0/50 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYN  50
+           KS+PEVVGK++ +ARE      P+ D+  +P G+PVTLDLR NRVR F +
+Sbjct  18  KSWPEVVGKSIKEAREIILKDKPEADIVVVPAGAPVTLDLRPNRVRNFVD  67
+
+
+>OEL21414.1 hypothetical protein BAE44_0017567 [Dichanthelium oligosanthes]
+Length=73
+
+ Score = 61.6 bits (148),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 40/62 (65%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A++      P  D+  LP GSP+TLDLR +RVR+F     + V   PH
+Sbjct  16  SWPEVVGLSVEEAKKVILKDKPDADIVVLPVGSPITLDLRPDRVRIFV----DTVAETPH  71
+
+Query  62  VG  63
+           VG
+Sbjct  72  VG  73
+
+
+>KAF6987319.1 hypothetical protein CFC21_004974 [Triticum aestivum]
+Length=77
+
+ Score = 62.0 bits (149),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 27/62 (44%), Positives = 40/62 (65%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PE+VGK++++ARE      P  D+  +P GS VT DLR NRVR+F     ++V   P+
+Sbjct  20  SWPELVGKSIEEAREIILKDMPDADIVVVPTGSAVTEDLRSNRVRIFV----DIVATTPN  75
+
+Query  62  VG  63
+           +G
+Sbjct  76  IG  77
+
+
+>PUZ63642.1 hypothetical protein GQ55_3G084500 [Panicum hallii var. hallii]
+ PUZ63643.1 hypothetical protein GQ55_3G084500 [Panicum hallii var. hallii]
+Length=71
+
+ Score = 61.6 bits (148),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 30/62 (48%), Positives = 38/62 (61%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG ++ +A++      P  D+  LP GSPVT DLR NRVR+F     N V   PH
+Sbjct  14  SWPEVVGLSIKEAKKVILKDKPDADIIVLPVGSPVTEDLRPNRVRIFV----NTVAETPH  69
+
+Query  62  VG  63
+           VG
+Sbjct  70  VG  71
+
+
+>PAN16830.1 hypothetical protein PAHAL_3G089600 [Panicum hallii]
+ PAN16831.1 hypothetical protein PAHAL_3G089600 [Panicum hallii]
+Length=71
+
+ Score = 61.6 bits (148),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 30/62 (48%), Positives = 38/62 (61%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG ++ +A++      P  D+  LP GSPVT DLR NRVR+F     N V   PH
+Sbjct  14  SWPEVVGLSIKEAKKVILKDKPDADIVVLPVGSPVTEDLRPNRVRIFV----NTVAETPH  69
+
+Query  62  VG  63
+           VG
+Sbjct  70  VG  71
+
+
+>CAD6334932.1 unnamed protein product [Miscanthus lutarioriparius]
+Length=74
+
+ Score = 61.2 bits (147),  Expect = 3e-10, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A++      P  D+  LP GSPVT+D R NRVR+F     + V   PH
+Sbjct  17  SWPEVVGLSVEEAKKVILKDKPDADIVVLPVGSPVTMDYRTNRVRIFV----DTVAQTPH  72
+
+Query  62  VG  63
+           VG
+Sbjct  73  VG  74
+
+
+>VAH12531.1 unnamed protein product [Triticum turgidum subsp. durum]
+Length=74
+
+ Score = 61.2 bits (147),  Expect = 3e-10, Method: Compositional matrix adjust.
+ Identities = 26/62 (42%), Positives = 38/62 (61%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVGK++++A+E      P+ D+  LP GS  TLD R NRVR+      + V+  P 
+Sbjct  17  SWPEVVGKSIEEAKEIILKDMPEADIDVLPAGSAATLDFRTNRVRIIV----DTVSTTPS  72
+
+Query  62  VG  63
+           +G
+Sbjct  73  IG  74
+
+
+>XP_066363866.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+ XP_066363867.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+Length=74
+
+ Score = 61.2 bits (147),  Expect = 3e-10, Method: Compositional matrix adjust.
+ Identities = 30/62 (48%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A++      P  DV  LP GSPVT+D R NRVR+F     + V   PH
+Sbjct  17  SWPEVVGLSVEEAKKVILKDKPDADVVVLPTGSPVTMDYRPNRVRIFV----DTVAQTPH  72
+
+Query  62  VG  63
+           VG
+Sbjct  73  VG  74
+
+
+>XP_047042488.1 subtilisin-chymotrypsin inhibitor-2B-like [Lolium rigidum]
+Length=78
+
+ Score = 61.2 bits (147),  Expect = 4e-10, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 38/62 (61%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PE+VGKT+ +ARE      P  ++  LP GS VTLD R +RVR+F     + V   PH
+Sbjct  21  SWPELVGKTIKEAREIILKDKPDANIVVLPAGSAVTLDYRTDRVRIFV----DTVADAPH  76
+
+Query  62  VG  63
+           +G
+Sbjct  77  IG  78
+
+
+>CAD8098956.1 unnamed protein product [Paramecium primaurelia]
+Length=71
+
+ Score = 60.8 bits (146),  Expect = 4e-10, Method: Compositional matrix adjust.
+ Identities = 27/63 (43%), Positives = 40/63 (63%), Gaps = 1/63 (2%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           +S+PE VGKT D+A++       + +V  LP+ S VT+D R NRVRVF++    +V   P
+Sbjct  10  QSWPECVGKTADEAKQIILADNAELNVQLLPQNSMVTMDYRTNRVRVFHDE-NGIVKQAP  68
+
+Query  61  HVG  63
+           H+G
+Sbjct  69  HIG  71
+
+
+>XP_066363817.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+ XP_066363818.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+ XP_066363819.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+ XP_066363820.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+ XP_066363931.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+Length=74
+
+ Score = 60.8 bits (146),  Expect = 4e-10, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A++      P  D+  LP GSPVT+D R NRVR+F     + V   PH
+Sbjct  17  SWPEVVGLSVEEAKKVILKDKPDADIIVLPTGSPVTMDYRPNRVRIFV----DTVAQTPH  72
+
+Query  62  VG  63
+           VG
+Sbjct  73  VG  74
+
+
+>XP_066363722.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+ XP_066363723.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+ XP_066363845.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+ XP_066363846.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+ XP_066363923.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+ XP_066380415.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+Length=74
+
+ Score = 60.8 bits (146),  Expect = 4e-10, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A++      P  D+  LP GSPVT+D R NRVR+F     + V   PH
+Sbjct  17  SWPEVVGLSVEEAKKVILKDKPDADIVVLPTGSPVTMDYRPNRVRIFV----DTVAQTPH  72
+
+Query  62  VG  63
+           VG
+Sbjct  73  VG  74
+
+
+>CAD6273286.1 unnamed protein product [Miscanthus lutarioriparius]
+Length=74
+
+ Score = 60.8 bits (146),  Expect = 5e-10, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A++      P  D+  LP GSPVT+D R NRVR+F     + +   PH
+Sbjct  17  SWPEVVGLSVEEAKKVILKDKPDADIVVLPTGSPVTMDYRPNRVRIFV----DTIAQTPH  72
+
+Query  62  VG  63
+           VG
+Sbjct  73  VG  74
+
+
+>ACG26179.1 subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]
+Length=71
+
+ Score = 60.5 bits (145),  Expect = 5e-10, Method: Compositional matrix adjust.
+ Identities = 27/63 (43%), Positives = 39/63 (62%), Gaps = 4/63 (6%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KS+PEVVG ++++A+       P  D+  LP G+PVT+D R NRVR+F     + V   P
+Sbjct  13  KSWPEVVGLSLEEAKRVILCDKPDADIVVLPVGTPVTMDFRPNRVRIFI----DTVAEAP  68
+
+Query  61  HVG  63
+           H+G
+Sbjct  69  HIG  71
+
+
+>ACG26339.1 subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]
+ ACG26809.1 subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]
+ AQK79454.1 Subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]
+ PWZ17200.1 Subtilisin-chymotrypsin inhibitor WSCI [Zea mays]
+Length=70
+
+ Score = 60.5 bits (145),  Expect = 6e-10, Method: Compositional matrix adjust.
+ Identities = 27/63 (43%), Positives = 39/63 (62%), Gaps = 4/63 (6%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KS+PEVVG ++++A+       P  D+  LP G+PVT+D R NRVR+F     + V   P
+Sbjct  12  KSWPEVVGLSLEEAKRVILCDKPDADIVVLPVGTPVTMDFRPNRVRIFV----DTVAEAP  67
+
+Query  61  HVG  63
+           H+G
+Sbjct  68  HIG  70
+
+
+>XP_066363815.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+ XP_066363835.1 subtilisin-chymotrypsin inhibitor-2B-like [Miscanthus floridulus]
+Length=74
+
+ Score = 60.5 bits (145),  Expect = 6e-10, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A++      P  D+  LP GSPVT+D R NRVR+F     + V   PH
+Sbjct  17  SWPEVVGLSVEEAKKVILEDKPDADIVVLPTGSPVTMDYRPNRVRIFV----DTVAQTPH  72
+
+Query  62  VG  63
+           VG
+Sbjct  73  VG  74
+
+
+>CAD8085834.1 unnamed protein product [Paramecium primaurelia]
+ CAD8198618.1 unnamed protein product [Paramecium pentaurelia]
+Length=67
+
+ Score = 60.5 bits (145),  Expect = 6e-10, Method: Compositional matrix adjust.
+ Identities = 30/63 (48%), Positives = 39/63 (62%), Gaps = 1/63 (2%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           K +PE VGKTVD+A++       + +V  L EGSP T D R NRVR+F+N   N+V  VP
+Sbjct  6   KEWPEAVGKTVDEAKQLILADDVEINVQVLLEGSPTTRDFRINRVRIFHN-DKNIVVSVP  64
+
+Query  61  HVG  63
+             G
+Sbjct  65  RRG  67
+
+
+>UJR23214.1 hypothetical protein I4U23_026233 [Adineta vaga]
+Length=67
+
+ Score = 60.5 bits (145),  Expect = 6e-10, Method: Compositional matrix adjust.
+ Identities = 29/55 (53%), Positives = 35/55 (64%), Gaps = 0/55 (0%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNV  55
+           +S+PE++GK VD+A E         DV  L EGSPVT D R NRVRVF+N   NV
+Sbjct  6   QSWPELIGKPVDEAIEIIKKENSNLDVIKLKEGSPVTEDFRSNRVRVFFNKDGNV  60
+
+
+>NP_001151896.1 subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]
+ ACG24113.1 subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]
+ ACG33073.1 subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]
+ ACG44837.1 subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]
+ AQK79453.1 Subtilisin-chymotrypsin inhibitor CI-1B [Zea mays]
+Length=71
+
+ Score = 60.5 bits (145),  Expect = 6e-10, Method: Compositional matrix adjust.
+ Identities = 27/63 (43%), Positives = 39/63 (62%), Gaps = 4/63 (6%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KS+PEVVG ++++A+       P  D+  LP G+PVT+D R NRVR+F     + V   P
+Sbjct  13  KSWPEVVGLSLEEAKRVILCDKPDADIVVLPVGTPVTMDFRPNRVRIFV----DTVAEAP  68
+
+Query  61  HVG  63
+           H+G
+Sbjct  69  HIG  71
+
+
+>AAK73145.1 putative proteinase inhibitor [Oryza sativa]
+ EAY96256.1 hypothetical protein OsI_18155 [Oryza sativa Indica Group]
+ EEE62063.1 hypothetical protein OsJ_16847 [Oryza sativa Japonica Group]
+ KAF2928767.1 hypothetical protein DAI22_05g007700 [Oryza sativa Japonica Group]
+Length=71
+
+ Score = 60.5 bits (145),  Expect = 7e-10, Method: Compositional matrix adjust.
+ Identities = 28/63 (44%), Positives = 39/63 (62%), Gaps = 3/63 (5%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           +S+PEVVG T+++A+       P  D+  LP G+P+T DLR NRVR+F   G+  V   P
+Sbjct  12  RSWPEVVGMTMEEAKAAILKDKPDADIVVLPVGAPMTRDLRPNRVRIF---GSATVAETP  68
+
+Query  61  HVG  63
+            VG
+Sbjct  69  RVG  71
+
+
+>KAF6987317.1 hypothetical protein CFC21_004972 [Triticum aestivum]
+Length=74
+
+ Score = 60.1 bits (144),  Expect = 8e-10, Method: Compositional matrix adjust.
+ Identities = 26/62 (42%), Positives = 37/62 (60%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVGK++++A+E      P  D+  LP GS  TLD R NRVR+      + V+  P 
+Sbjct  17  SWPEVVGKSIEEAKEIILKDMPDADIDVLPAGSAATLDFRTNRVRIIV----DTVSTTPS  72
+
+Query  62  VG  63
+           +G
+Sbjct  73  IG  74
+
+
+>KAE8767213.1 hypothetical protein D1007_61438 [Hordeum vulgare]
+ KAE8767236.1 hypothetical protein D1007_61461 [Hordeum vulgare]
+ KAE8772870.1 hypothetical protein D1007_55078 [Hordeum vulgare]
+ KAE8772872.1 hypothetical protein D1007_55080 [Hordeum vulgare]
+ KAE8802103.1 hypothetical protein D1007_22383 [Hordeum vulgare]
+Length=77
+
+ Score = 60.1 bits (144),  Expect = 9e-10, Method: Compositional matrix adjust.
+ Identities = 24/58 (41%), Positives = 37/58 (64%), Gaps = 0/58 (0%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHV  59
+           S+PE+VGK++++A+E      P+ D+  LP  S VT+DLR NRVR+  +    V N +
+Sbjct  17  SWPELVGKSIEEAKEVILKDMPEADIVVLPTDSLVTMDLRSNRVRILVDTVATVTNRL  74
+
+
+>CAD6273291.1 unnamed protein product [Miscanthus lutarioriparius]
+ CAD6273297.1 unnamed protein product [Miscanthus lutarioriparius]
+ CAD6273299.1 unnamed protein product [Miscanthus lutarioriparius]
+Length=74
+
+ Score = 59.7 bits (143),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A++      P  D+  LP GSPVT+D R NRVR+F     + V   PH
+Sbjct  17  SWPEVVGLSVEEAKKVIHKDKPDADIVVLPTGSPVTMDYRPNRVRIFV----DTVAQTPH  72
+
+Query  62  VG  63
+           VG
+Sbjct  73  VG  74
+
+
+>XP_062179291.1 subtilisin-chymotrypsin inhibitor-2B-like [Phragmites australis]
+ XP_062179292.1 subtilisin-chymotrypsin inhibitor-2B-like [Phragmites australis]
+Length=74
+
+ Score = 59.7 bits (143),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 28/63 (44%), Positives = 39/63 (62%), Gaps = 4/63 (6%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           +S+PEVVG +V++A++      P  D+  LP GS VT+D R NRVR+F     + V   P
+Sbjct  16  RSWPEVVGLSVEEAKKVILKDKPDADIVVLPAGSAVTMDFRPNRVRIFV----DTVAETP  71
+
+Query  61  HVG  63
+           HVG
+Sbjct  72  HVG  74
+
+
+>CAD6273292.1 unnamed protein product [Miscanthus lutarioriparius]
+ CAD6273293.1 unnamed protein product [Miscanthus lutarioriparius]
+ CAD6273300.1 unnamed protein product [Miscanthus lutarioriparius]
+Length=74
+
+ Score = 59.7 bits (143),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A++      P  D+  LP GSPVTL+ R NRVR+F     + V   PH
+Sbjct  17  SWPEVVGLSVEEAKKVILKDKPDADIVVLPTGSPVTLEYRPNRVRIFV----DTVAQTPH  72
+
+Query  62  VG  63
+           VG
+Sbjct  73  VG  74
+
+
+>XP_039836275.1 subtilisin-chymotrypsin inhibitor-2B-like [Panicum virgatum]
+ KAG2624061.1 hypothetical protein PVAP13_3KG098100 [Panicum virgatum]
+Length=75
+
+ Score = 59.7 bits (143),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 38/62 (61%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG ++++A++      P  D+  LP G+PVT D R NRVR+F     N V   PH
+Sbjct  18  SWPEVVGMSIEEAKKVILKDKPDADIQVLPVGTPVTKDFRPNRVRIFV----NTVAETPH  73
+
+Query  62  VG  63
+           VG
+Sbjct  74  VG  75
+
+
+>XP_039836276.1 subtilisin-chymotrypsin inhibitor CI-1B-like [Panicum virgatum]
+ KAG2624065.1 hypothetical protein PVAP13_3KG098300 [Panicum virgatum]
+Length=75
+
+ Score = 59.7 bits (143),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 38/62 (61%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG ++++A++      P  D+  LP G+PVT D R NRVR+F     N V   PH
+Sbjct  18  SWPEVVGMSIEEAKKVILKDKPDADIQVLPVGTPVTKDFRPNRVRIFV----NTVAETPH  73
+
+Query  62  VG  63
+           VG
+Sbjct  74  VG  75
+
+
+>CAD8208153.1 unnamed protein product [Paramecium octaurelia]
+Length=67
+
+ Score = 59.3 bits (142),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 28/63 (44%), Positives = 36/63 (57%), Gaps = 1/63 (2%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           K +PE +GKTVD+A++          V  L EGSP T D R NRVR+F+N   N+V   P
+Sbjct  6   KEWPEAIGKTVDEAKQLILADDADIMVQVLAEGSPTTRDFRMNRVRIFHN-DKNIVVQAP  64
+
+Query  61  HVG  63
+             G
+Sbjct  65  RRG  67
+
+
+>XP_040253523.1 subtilisin-chymotrypsin inhibitor-2A [Aegilops tauschii subsp. 
+strangulata]
+ KAF6992962.1 hypothetical protein CFC21_009912 [Triticum aestivum]
+Length=74
+
+ Score = 59.3 bits (142),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 26/62 (42%), Positives = 37/62 (60%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVGK++++A+E      P  D+  LP GS +TLD R NRVR+      + V   P 
+Sbjct  17  SWPEVVGKSIEEAKEIILKDMPNADIDVLPAGSAMTLDFRTNRVRIIV----DTVATTPS  72
+
+Query  62  VG  63
+           +G
+Sbjct  73  IG  74
+
+
+>CAD6334929.1 unnamed protein product [Miscanthus lutarioriparius]
+Length=72
+
+ Score = 59.3 bits (142),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 29/63 (46%), Positives = 39/63 (62%), Gaps = 4/63 (6%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KS+PEVVG +V++A++      P  D++ LP GSPVT D R NRVR+F     + V   P
+Sbjct  14  KSWPEVVGLSVEEAKKVILKDKPDADIFVLPVGSPVTKDFRPNRVRIFV----DTVAETP  69
+
+Query  61  HVG  63
+            VG
+Sbjct  70  RVG  72
+
+
+>EMS48066.1 Subtilisin-chymotrypsin inhibitor-2A [Triticum urartu]
+Length=80
+
+ Score = 59.3 bits (142),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 25/62 (40%), Positives = 37/62 (60%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVGK++++A+E      P  D+  LP GS +TLD R NRVR+      + +   P 
+Sbjct  23  SWPEVVGKSIEEAKEIILKDMPDADIDVLPAGSAMTLDFRTNRVRIIV----DTIATTPS  78
+
+Query  62  VG  63
+           +G
+Sbjct  79  IG  80
+
+
+>CAL4896104.1 unnamed protein product [Urochloa decumbens]
+ CAL5097420.1 unnamed protein product [Urochloa decumbens]
+Length=72
+
+ Score = 58.9 bits (141),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 38/62 (61%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG ++++A++      P  D+  LP G+PVT D R NRVR+F     N V   PH
+Sbjct  15  SWPEVVGLSIEEAKKVILKDKPDADIVVLPVGTPVTQDFRPNRVRIFV----NTVAEAPH  70
+
+Query  62  VG  63
+           VG
+Sbjct  71  VG  72
+
+
+>XP_047311225.1 subtilisin inhibitor CLSI-I-like [Impatiens glandulifera]
+Length=81
+
+ Score = 59.3 bits (142),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 36/62 (58%), Gaps = 1/62 (2%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG T D+A +      P    + LP+GSP TLD R  RVR+  +  T  V H PH
+Sbjct  21  SWPEVVGLTADEAEKKIKEDMPTAHTFVLPQGSPFTLDYRIERVRILVD-STGKVAHTPH  79
+
+Query  62  VG  63
+           VG
+Sbjct  80  VG  81
+
+
+>OMO87611.1 hypothetical protein CCACVL1_08885 [Corchorus capsularis]
+Length=1228
+
+ Score = 63.2 bits (152),  Expect = 2e-09, Method: Composition-based stats.
+ Identities = 29/62 (47%), Positives = 40/62 (65%), Gaps = 1/62 (2%)
+
+Query  2     SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+             S+PE+VG+ V+ A+       P  D+  LPEGSP T+D R+NRVR++ N    VVN VP 
+Sbjct  1168  SWPELVGENVETAKATILKERPDLDIVVLPEGSPATMDYRFNRVRLWVNEKCQVVN-VPR  1226
+
+Query  62    VG  63
+             +G
+Sbjct  1227  IG  1228
+
+
+>XP_015618062.1 subtilisin-chymotrypsin inhibitor-2A [Oryza sativa Japonica Group]
+ EAY83429.1 hypothetical protein OsI_38643 [Oryza sativa Indica Group]
+ KAB8117754.1 hypothetical protein EE612_060122 [Oryza sativa]
+ ABA98880.1 Subtilisin-chymotrypsin inhibitor CI-1B, putative, expressed 
+[Oryza sativa Japonica Group]
+ EAZ20793.1 hypothetical protein OsJ_36417 [Oryza sativa Japonica Group]
+ KAF2908237.1 hypothetical protein DAI22_12g170100 [Oryza sativa Japonica Group]
+Length=77
+
+ Score = 58.9 bits (141),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 27/62 (44%), Positives = 37/62 (60%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG + ++A++      P  D+  LP GSPVTLD R NRVR+F     + V   P 
+Sbjct  20  SWPEVVGLSAEEAKKVILKDMPDADIVVLPAGSPVTLDFRSNRVRIFV----DTVAGTPT  75
+
+Query  62  VG  63
+           +G
+Sbjct  76  IG  77
+
+
+>XP_014754372.1 subtilisin-chymotrypsin inhibitor-2A [Brachypodium distachyon]
+ KQK07447.1 hypothetical protein BRADI_2g35500v3 [Brachypodium distachyon]
+Length=76
+
+ Score = 58.9 bits (141),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A++      P  D+  LP G+PVT DLR NRVR+F     + V  +P 
+Sbjct  19  SWPEVVGLSVEEAKKAILKDKPDADIIVLPVGAPVTEDLRPNRVRIFI----DTVAQIPR  74
+
+Query  62  VG  63
+           VG
+Sbjct  75  VG  76
+
+
+>KAF7066388.1 hypothetical protein CFC21_072381 [Triticum aestivum]
+Length=71
+
+ Score = 58.9 bits (141),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 37/62 (60%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A+E      P  D+  LP GSPVT D R  RVR+F     + V  +PH
+Sbjct  14  SWPEVVGLSVEKAKEIILTDKPDADIVVLPVGSPVTKDYRSERVRIFI----DTVAEIPH  69
+
+Query  62  VG  63
+            G
+Sbjct  70  TG  71
+
+
+>XP_051224149.1 subtilisin-chymotrypsin inhibitor-2A-like [Lolium perenne]
+Length=73
+
+ Score = 58.5 bits (140),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 28/63 (44%), Positives = 38/63 (60%), Gaps = 4/63 (6%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           +++PEVVG  + +ARE      P  D+ FLP G+P T DLR +RVR+F     + V   P
+Sbjct  15  RTWPEVVGLPIKEAREIILKDKPDADIVFLPVGTPTTRDLRPDRVRIFV----DTVASTP  70
+
+Query  61  HVG  63
+           HVG
+Sbjct  71  HVG  73
+
+
+>PAN16828.1 hypothetical protein PAHAL_3G089500 [Panicum hallii]
+ PUZ63641.1 hypothetical protein GQ55_3G084400 [Panicum hallii var. hallii]
+Length=73
+
+ Score = 58.5 bits (140),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 27/62 (44%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG ++++A++      P  D++ LP G+PVT D R NRVR+F     + V   PH
+Sbjct  16  SWPEVVGMSIEEAKKVILKDKPDADIHVLPVGTPVTKDFRPNRVRIFV----DTVAETPH  71
+
+Query  62  VG  63
+           VG
+Sbjct  72  VG  73
+
+
+>XP_044393363.1 subtilisin-chymotrypsin inhibitor-2B-like [Triticum aestivum]
+Length=97
+
+ Score = 59.3 bits (142),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 37/62 (60%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A+E      P  D+  LP GSPVT D R  RVR+F     + V  +PH
+Sbjct  40  SWPEVVGLSVEKAKEIILTDKPDADIVVLPVGSPVTKDYRSERVRIFI----DTVAEIPH  95
+
+Query  62  VG  63
+            G
+Sbjct  96  TG  97
+
+
+>KAF6982041.1 hypothetical protein CFC21_000479 [Triticum aestivum]
+Length=74
+
+ Score = 58.5 bits (140),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 26/62 (42%), Positives = 37/62 (60%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVGK++++A+E      P  D+  LP GS +TLD R NRVR+      + V   P 
+Sbjct  17  SWPEVVGKSIEEAKEIILKDMPNADIDVLPAGSAMTLDFRTNRVRIIV----DTVAITPS  72
+
+Query  62  VG  63
+           +G
+Sbjct  73  IG  74
+
+
+>XP_037431212.1 subtilisin-chymotrypsin inhibitor-2B-like [Triticum dicoccoides]
+ XP_044385241.1 subtilisin-chymotrypsin inhibitor-2B-like [Triticum aestivum]
+ KAF7059685.1 hypothetical protein CFC21_066554 [Triticum aestivum]
+ VAI19385.1 unnamed protein product [Triticum turgidum subsp. durum]
+Length=97
+
+ Score = 59.3 bits (142),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 37/62 (60%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A+E      P  D+  LP GSPVT D R  RVR+F     ++V   PH
+Sbjct  40  SWPEVVGLSVEKAKEIILKDKPDADIVVLPVGSPVTKDYRSQRVRIFV----DIVAETPH  95
+
+Query  62  VG  63
+            G
+Sbjct  96  TG  97
+
+
+>XP_039836267.1 subtilisin-chymotrypsin inhibitor-2B-like isoform X2 [Panicum 
+virgatum]
+Length=79
+
+ Score = 58.5 bits (140),  Expect = 5e-09, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 36/62 (58%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG   ++A++      P  DV  LP GSPVT+D R NRVRVF     + V   P 
+Sbjct  22  SWPEVVGLPAEEAKKIILKDMPDADVVVLPAGSPVTMDWRSNRVRVFV----DTVAQTPT  77
+
+Query  62  VG  63
+           VG
+Sbjct  78  VG  79
+
+
+>CAD6273284.1 unnamed protein product [Miscanthus lutarioriparius]
+Length=100
+
+ Score = 58.9 bits (141),  Expect = 5e-09, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 39/62 (63%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A++      P  D+  LP GSPVT+D R NRVR+F     + +   PH
+Sbjct  43  SWPEVVGLSVEEAKKVILKDKPDADIVVLPTGSPVTMDYRPNRVRIFV----DTIAQTPH  98
+
+Query  62  VG  63
+           VG
+Sbjct  99  VG  100
+
+
+>XP_039836274.1 subtilisin-chymotrypsin inhibitor-2B-like isoform X2 [Panicum 
+virgatum]
+Length=94
+
+ Score = 58.9 bits (141),  Expect = 5e-09, Method: Compositional matrix adjust.
+ Identities = 29/62 (47%), Positives = 36/62 (58%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG   ++A++      P  DV  LP GSPVT+D R NRVRVF     + V   P 
+Sbjct  22  SWPEVVGLPAEEAKKIILKDMPDADVVVLPAGSPVTMDWRSNRVRVFV----DTVAQTPT  77
+
+Query  62  VG  63
+           VG
+Sbjct  78  VG  79
+
+
+>XP_044401546.1 subtilisin-chymotrypsin inhibitor-2B-like [Triticum aestivum]
+ XP_045084954.1 subtilisin-chymotrypsin inhibitor-2B [Aegilops tauschii subsp. 
+strangulata]
+ KAF7073366.1 hypothetical protein CFC21_078366 [Triticum aestivum]
+Length=97
+
+ Score = 58.9 bits (141),  Expect = 5e-09, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 37/62 (60%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG +V++A+E      P  D+  LP GSPVT D R  RVR+F     + V  +PH
+Sbjct  40  SWPEVVGLSVEKAKEIILKDKPDADIVVLPVGSPVTKDYRSERVRIFI----DTVAEIPH  95
+
+Query  62  VG  63
+            G
+Sbjct  96  TG  97
+
+
+>XP_062181709.1 subtilisin-chymotrypsin inhibitor-2B-like isoform X2 [Phragmites 
+australis]
+Length=74
+
+ Score = 58.2 bits (139),  Expect = 5e-09, Method: Compositional matrix adjust.
+ Identities = 28/63 (44%), Positives = 39/63 (62%), Gaps = 4/63 (6%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           +S+PEVVG +V++A++      P  D+  LP G+PVT D R NRVR+F     + V   P
+Sbjct  16  RSWPEVVGLSVEEAKKVILKDKPDADIVVLPVGTPVTKDFRPNRVRIFV----DTVAETP  71
+
+Query  61  HVG  63
+           HVG
+Sbjct  72  HVG  74
+
+
+>KAF6981867.1 hypothetical protein CFC21_000315 [Triticum aestivum]
+Length=74
+
+ Score = 58.2 bits (139),  Expect = 6e-09, Method: Compositional matrix adjust.
+ Identities = 26/62 (42%), Positives = 37/62 (60%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVGK++++A+E      P  D+  LP GS +TLD R NRVR+      + V   P 
+Sbjct  17  SWPEVVGKSIEEAKEIILKDMPDTDIDVLPLGSAMTLDFRTNRVRIIV----DTVATTPS  72
+
+Query  62  VG  63
+           +G
+Sbjct  73  IG  74
+
+
+>XP_039803123.1 subtilisin-chymotrypsin inhibitor-2B-like [Panicum virgatum]
+ KAG2615880.1 hypothetical protein PVAP13_3NG043882 [Panicum virgatum]
+Length=74
+
+ Score = 58.2 bits (139),  Expect = 6e-09, Method: Compositional matrix adjust.
+ Identities = 27/62 (44%), Positives = 38/62 (61%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG ++++A++      P  D++ LP G+PVT D R NRVR+F       V   PH
+Sbjct  17  SWPEVVGMSIEEAKKVILKDKPDADIHVLPVGTPVTRDFRPNRVRIFV----GTVAQTPH  72
+
+Query  62  VG  63
+           VG
+Sbjct  73  VG  74
+
+
+>CAF1367699.1 unnamed protein product [Rotaria sordida]
+ CAF1609877.1 unnamed protein product [Rotaria sordida]
+Length=76
+
+ Score = 58.2 bits (139),  Expect = 6e-09, Method: Compositional matrix adjust.
+ Identities = 30/63 (48%), Positives = 40/63 (63%), Gaps = 1/63 (2%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           KS+P +VGK VD+A E      P ++V  + + SPVTLD  +NRVRVFYN     V+  P
+Sbjct  15  KSWPALVGKPVDEAVEEIRRENPSFNVLKVQDNSPVTLDFGFNRVRVFYNVDGK-VSQTP  73
+
+Query  61  HVG  63
+           H+G
+Sbjct  74  HIG  76
+
+
+>KAE8819411.1 hypothetical protein D1007_02636 [Hordeum vulgare]
+ KAI5017006.1 hypothetical protein ZWY2020_037384 [Hordeum vulgare]
+Length=86
+
+ Score = 58.2 bits (139),  Expect = 6e-09, Method: Compositional matrix adjust.
+ Identities = 26/62 (42%), Positives = 36/62 (58%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PE+VGK+++ ARE      P+ D+  LP  S VT D R NRVR+      + V   PH
+Sbjct  29  SWPELVGKSIEDAREVILKDMPEADIEVLPTDSVVTADWRSNRVRIL----ADTVATTPH  84
+
+Query  62  VG  63
+           +G
+Sbjct  85  IG  86
+
+
+>EES18872.1 hypothetical protein SORBI_3009G009800 [Sorghum bicolor]
+Length=73
+
+ Score = 57.8 bits (138),  Expect = 6e-09, Method: Compositional matrix adjust.
+ Identities = 28/63 (44%), Positives = 39/63 (62%), Gaps = 4/63 (6%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           +S+PEVVG +V++A++      P  D++ LP GSPVT D R NRVR+F     + V   P
+Sbjct  15  QSWPEVVGLSVEEAKKVILKDKPDADIFVLPVGSPVTRDFRPNRVRIFV----DTVAETP  70
+
+Query  61  HVG  63
+            VG
+Sbjct  71  RVG  73
+
+
+>OMO75070.1 Proteinase inhibitor I13, potato inhibitor I [Corchorus olitorius]
+Length=120
+
+ Score = 58.9 bits (141),  Expect = 6e-09, Method: Compositional matrix adjust.
+ Identities = 27/62 (44%), Positives = 37/62 (60%), Gaps = 1/62 (2%)
+
+Query  2    SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+            S+PE+VG+  + A+       P  DV  LPE SP T+D R+NRVR++ N    VV  VP 
+Sbjct  60   SWPELVGENAETAKATILKERPDLDVVVLPENSPATMDYRFNRVRLWVNEKCQVV-QVPV  118
+
+Query  62   VG  63
+            +G
+Sbjct  119  IG  120
+
+
+>KAK3120480.1 hypothetical protein QOZ80_9AG0688390 [Eleusine coracana subsp. 
+coracana]
+ GJN04840.1 hypothetical protein PR202_ga22415 [Eleusine coracana subsp. 
+coracana]
+Length=135
+
+ Score = 59.3 bits (142),  Expect = 7e-09, Method: Compositional matrix adjust.
+ Identities = 26/49 (53%), Positives = 34/49 (69%), Gaps = 0/49 (0%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYN  50
+           S+PEVVGK   +A E     +P+ D++ LP GSPVTLD R +RVRVF +
+Sbjct  12  SWPEVVGKPAKEAVEVIKKDFPEADIHVLPSGSPVTLDFRTDRVRVFLD  60
+
+
+ Score = 37.0 bits (84),  Expect = 2.9, Method: Compositional matrix adjust.
+ Identities = 21/62 (34%), Positives = 32/62 (52%), Gaps = 4/62 (6%)
+
+Query  2    SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+            S+PE+VGK++ +A+E      P   +  L    P T +   NRVR+F     + V+  P 
+Sbjct  78   SWPELVGKSLKEAKEVILKDKPNAIIQVLTPFDPETREFHPNRVRIFI----DTVSDTPV  133
+
+Query  62   VG  63
+            VG
+Sbjct  134  VG  135
+
+
+>KAK3119255.1 hypothetical protein QOZ80_9BG0716690 [Eleusine coracana subsp. 
+coracana]
+ GJN25699.1 hypothetical protein PR202_gb13562 [Eleusine coracana subsp. 
+coracana]
+Length=135
+
+ Score = 59.3 bits (142),  Expect = 7e-09, Method: Compositional matrix adjust.
+ Identities = 26/49 (53%), Positives = 34/49 (69%), Gaps = 0/49 (0%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYN  50
+           S+PEVVGK   +A E     +P+ D++ LP GSPVTLD R +RVRVF +
+Sbjct  12  SWPEVVGKPAKEAVEVIKKDFPEADIHVLPSGSPVTLDFRTDRVRVFLD  60
+
+
+>XP_044955281.1 subtilisin inhibitor-like [Hordeum vulgare subsp. vulgare]
+Length=74
+
+ Score = 57.8 bits (138),  Expect = 7e-09, Method: Compositional matrix adjust.
+ Identities = 26/62 (42%), Positives = 36/62 (58%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PE+VGK+++ ARE      P+ D+  LP  S VT D R NRVR+      + V   PH
+Sbjct  17  SWPELVGKSIEDAREVILKDMPEADIEVLPTNSVVTADWRSNRVRIL----ADTVATTPH  72
+
+Query  62  VG  63
+           +G
+Sbjct  73  IG  74
+
+
+>CAD6273287.1 unnamed protein product [Miscanthus lutarioriparius]
+ CAD6273289.1 unnamed protein product [Miscanthus lutarioriparius]
+Length=74
+
+ Score = 57.8 bits (138),  Expect = 7e-09, Method: Compositional matrix adjust.
+ Identities = 28/62 (45%), Positives = 38/62 (61%), Gaps = 4/62 (6%)
+
+Query  2   SFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVPH  61
+           S+PEVVG  V++A++      P  D+  LP GSPVT+D R NRVR+F     + V   P+
+Sbjct  17  SWPEVVGLNVEEAKKVILKDKPDADIVVLPTGSPVTMDYRPNRVRIFV----DTVAQTPN  72
+
+Query  62  VG  63
+           VG
+Sbjct  73  VG  74
+
+
+>XP_062179303.1 subtilisin-chymotrypsin inhibitor-2B-like [Phragmites australis]
+ XP_062179304.1 subtilisin-chymotrypsin inhibitor-2B-like [Phragmites australis]
+Length=74
+
+ Score = 57.8 bits (138),  Expect = 8e-09, Method: Compositional matrix adjust.
+ Identities = 28/63 (44%), Positives = 38/63 (60%), Gaps = 4/63 (6%)
+
+Query  1   KSFPEVVGKTVDQAREYFTLHYPQYDVYFLPEGSPVTLDLRYNRVRVFYNPGTNVVNHVP  60
+           +S+PEVVG +V++A++      P  D+  LP GS VT D R NRVR+F     + V   P
+Sbjct  16  RSWPEVVGLSVEEAKKVILKDKPDADIVVLPAGSAVTEDFRPNRVRIFV----DTVAETP  71
+
+Query  61  HVG  63
+           HVG
+Sbjct  72  HVG  74
+
+
+Query= 1ay7_A
+
+Length=96
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+ARF82133.1 ribonuclease [Kitasatospora aureofaciens]               201     2e-64  100%      
+WP_046385930.1 ribonuclease [Kitasatospora aureofaciens]           199     9e-64  100%      
+P05798.2 RecName: Full=Guanyl-specific ribonuclease Sa; Short=...  197     3e-63  100%      
+1T2H_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora...  196     5e-63  99%       
+1I8V_A Chain A, GUANYL-SPECIFIC RIBONUCLEASE SA [Kitasatospora...  196     7e-63  99%       
+4J5K_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora...  196     7e-63  99%       
+1I70_A Chain A, GUANYL-SPECIFIC RIBONUCLEASE SA [Kitasatospora...  196     7e-63  99%       
+4GHO_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora...  196     7e-63  99%       
+1YNV_X Chain X, Guanyl-specific ribonuclease Sa [Kitasatospora...  196     8e-63  99%       
+4J5G_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora...  196     1e-62  99%       
+1UCL_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora...  195     1e-62  99%       
+1UCK_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora...  195     1e-62  99%       
+1UCJ_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora...  195     1e-62  99%       
+1UCI_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora...  195     1e-62  99%       
+1T2I_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora...  195     2e-62  99%       
+1RGF_B Chain B, RIBONUCLEASE [Kitasatospora aureofaciens]          195     2e-62  100%      
+1BOX_A Chain A, GUANYL-SPECIFIC RIBONUCLEASE SA [Kitasatospora...  195     2e-62  99%       
+1GMP_A Chain A, RIBONUCLEASE SA [Kitasatospora aureofaciens]       195     2e-62  99%       
+WP_329924858.1 ribonuclease [Streptomyces sp. SP17BM10]            191     1e-60  96%       
+MEU4117229.1 ribonuclease [Kitasatospora sp. NPDC028055]           191     1e-60  95%       
+3A5E_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora...  189     2e-60  95%       
+MEV7022591.1 ribonuclease [Kitasatospora sp. NPDC093558]           189     4e-60  95%       
+MBV6698968.1 ribonuclease [Kitasatospora aureofaciens]             190     6e-60  93%       
+WP_223241766.1 ribonuclease [Streptomyces sp. CBMA123]             189     8e-60  94%       
+WP_256177589.1 ribonuclease [Kitasatospora aureofaciens]           187     2e-59  93%       
+MEU8510658.1 ribonuclease [Kitasatospora sp. NPDC048722]           187     3e-59  94%       
+WP_350505703.1 ribonuclease [Kitasatospora sp. NPDC096128]         187     3e-59  93%       
+WP_350512657.1 ribonuclease [Kitasatospora sp. NPDC096077]         186     6e-59  94%       
+WP_270141703.1 ribonuclease [Kitasatospora cathayae]               186     2e-58  92%       
+MDH6709631.1 ribonuclease T1 [Kitasatospora sp. MAA19]             185     7e-58  93%       
+WP_280684774.1 ribonuclease [Kitasatospora sp. MAA19]              184     8e-58  93%       
+WSK08821.1 ribonuclease [Kitasatospora sp. NBC_01300]              184     9e-58  92%       
+MEV7357143.1 ribonuclease [Kitasatospora sp. NPDC091276]           183     2e-57  92%       
+WP_244293725.1 ribonuclease [Streptomycetaceae]                    182     3e-57  92%       
+MEV7600794.1 ribonuclease [Kitasatospora sp. NPDC089797]           182     3e-57  91%       
+WP_350879201.1 ribonuclease [Kitasatospora sp. NPDC094016]         181     6e-57  91%       
+MBO1418975.1 ribonuclease [Streptomyces sp. FH025]                 181     2e-56  90%       
+WP_243437760.1 ribonuclease [Streptomyces sp. FH025]               179     5e-56  90%       
+WP_049650667.1 ribonuclease [Streptomycetaceae]                    178     2e-55  86%       
+RGD56015.1 ribonuclease [Kitasatospora xanthocidica]               178     2e-55  86%       
+MEU8923274.1 ribonuclease [Kitasatospora sp. NPDC048545]           177     3e-55  86%       
+WP_350748936.1 ribonuclease [Kitasatospora sp. NPDC001539]         177     3e-55  89%       
+MEU9076031.1 ribonuclease [Kitasatospora sp. NPDC048538]           177     3e-55  89%       
+KJS56579.1 hypothetical protein VM98_06575 [Streptomyces rubel...  177     4e-55  89%       
+WP_244178833.1 ribonuclease [Streptomyces rubellomurinus]          177     4e-55  89%       
+WP_316526002.1 ribonuclease [Kitasatospora brasiliensis]           176     2e-54  87%       
+WP_234327215.1 ribonuclease [Streptomyces sp. NRRL WC-3742]        175     2e-54  85%       
+MEU3570658.1 ribonuclease [Kitasatospora sp. NPDC036755]           175     2e-54  85%       
+MET8629000.1 ribonuclease [Kitasatospora sp. NPDC004669]           175     2e-54  88%       
+WP_196952487.1 ribonuclease [Kitasatospora sp. SUK 42]             176     2e-54  88%       
+WP_051829711.1 ribonuclease [Streptomyces]                         174     5e-54  86%       
+MEV7773961.1 ribonuclease [Kitasatospora sp. NPDC086791]           174     8e-54  85%       
+WP_257032988.1 ribonuclease [unclassified Streptomyces]            173     1e-53  86%       
+RKT12038.1 ribonuclease T1 [Streptomyces sp. 1114.5]               174     1e-53  86%       
+WP_234322889.1 ribonuclease [Streptomyces sp. NRRL S-350]          172     2e-53  84%       
+MEU1288778.1 ribonuclease [Kitasatospora sp. NPDC005856]           172     5e-53  84%       
+WP_350630955.1 ribonuclease [Kitasatospora sp. NPDC097691]         171     6e-53  83%       
+GAA3034746.1 hypothetical protein GCM10010519_70650 [Streptomy...  172     7e-53  84%       
+MQS15429.1 ribonuclease [Streptomyces kaniharaensis]               171     1e-52  83%       
+MEU9045429.1 ribonuclease [Kitasatospora sp. NPDC048343]           170     2e-52  83%       
+GHF55689.1 hypothetical protein GCM10018790_36970 [Kitasatospo...  171     2e-52  83%       
+MEU3563755.1 ribonuclease [Kitasatospora sp. NPDC006786]           170     2e-52  84%       
+WP_230210889.1 ribonuclease [Streptomyces kaniharaensis]           170     3e-52  83%       
+WP_229928717.1 ribonuclease [Kitasatospora xanthocidica]           169     8e-52  83%       
+WP_350601384.1 ribonuclease [Kitasatospora sp. NPDC097643]         167     3e-51  83%       
+MEV0536623.1 ribonuclease [Kitasatospora sp. NPDC050463]           166     1e-50  81%       
+WP_350524813.1 ribonuclease domain-containing protein [Kitasat...  165     2e-50  80%       
+MET8545384.1 ribonuclease domain-containing protein [Kitasatos...  162     2e-49  78%       
+WP_145902865.1 ribonuclease [Kitasatospora viridis]                162     5e-49  80%       
+WP_280697547.1 ribonuclease [Kitasatospora sp. GP82]               162     5e-49  80%       
+WP_045298209.1 ribonuclease [Saccharothrix sp. ST-888]             161     1e-48  79%       
+WP_141632940.1 ribonuclease [Kitasatospora acidiphila]             161     1e-48  81%       
+WP_230047638.1 ribonuclease [Kitasatospora humi]                   160     2e-48  79%       
+WP_280670790.1 ribonuclease [Kitasatospora sp. MAP12-44]           160     3e-48  78%       
+WP_244293569.1 ribonuclease domain-containing protein [Strepto...  158     9e-48  77%       
+WP_329491448.1 ribonuclease [unclassified Kitasatospora]           158     2e-47  78%       
+WP_101383618.1 ribonuclease [Kitasatospora sp. GP30]               158     2e-47  78%       
+WP_035791877.1 ribonuclease domain-containing protein [Kitasat...  158     3e-47  78%       
+MDH6145951.1 ribonuclease T1 [Kitasatospora sp. GP30]              158     3e-47  78%       
+MEV7358426.1 ribonuclease domain-containing protein [Kitasatos...  156     8e-47  77%       
+GAA2246860.1 hypothetical protein GCM10010430_31110 [Kitasatos...  157     8e-47  76%       
+WP_280724257.1 ribonuclease domain-containing protein [Kitasat...  157     9e-47  78%       
+WP_218203491.1 ribonuclease domain-containing protein [Kitasat...  156     1e-46  77%       
+MEU6871585.1 ribonuclease [Streptomyces sp. NPDC046751]            156     1e-46  80%       
+WP_350884154.1 ribonuclease [Kitasatospora sp. NPDC094016]         155     1e-46  77%       
+MEV7601913.1 ribonuclease domain-containing protein [Kitasatos...  155     3e-46  76%       
+WP_353785926.1 ribonuclease domain-containing protein [unclass...  155     5e-46  78%       
+SCD97504.1 ribonuclease T1 [Streptomyces sp. DvalAA-43]            155     6e-46  78%       
+MEU9077995.1 ribonuclease domain-containing protein [Kitasatos...  154     7e-46  75%       
+WP_093542058.1 ribonuclease [unclassified Streptomyces]            154     7e-46  78%       
+WP_329819756.1 ribonuclease [Streptomyces sp. JV185]               154     7e-46  77%       
+WSK08441.1 ribonuclease [Kitasatospora sp. NBC_01300]              153     8e-46  76%       
+WP_345709251.1 ribonuclease domain-containing protein [Kitasat...  154     9e-46  77%       
+GHB27815.1 hypothetical protein GCM10010331_12680 [Streptomyce...  154     9e-46  80%       
+WP_350508801.1 ribonuclease domain-containing protein [Kitasat...  154     1e-45  76%       
+WP_353782844.1 ribonuclease domain-containing protein [unclass...  154     1e-45  78%       
+WP_189762362.1 ribonuclease domain-containing protein [Strepto...  154     1e-45  80%       
+WP_167153926.1 ribonuclease domain-containing protein [Strepto...  154     1e-45  80%       
+GAA5023492.1 hypothetical protein GCM10025734_80620 [Kitasatos...  154     1e-45  77%       
+MEV7718033.1 ribonuclease domain-containing protein [Streptomy...  154     1e-45  78%       
+
+ALIGNMENTS
+>ARF82133.1 ribonuclease [Kitasatospora aureofaciens]
+ OEV38470.1 guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+ GGU84829.1 hypothetical protein GCM10010502_41040 [Kitasatospora aureofaciens]
+Length=130
+
+ Score = 201 bits (511),  Expect = 2e-64, Method: Compositional matrix adjust.
+ Identities = 96/96 (100%), Positives = 96/96 (100%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP
+Sbjct  35   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  94
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC
+Sbjct  95   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  130
+
+
+>WP_046385930.1 ribonuclease [Kitasatospora aureofaciens]
+ MET9178481.1 ribonuclease [Kitasatospora aureofaciens]
+ MEU4299524.1 ribonuclease [Kitasatospora aureofaciens]
+ MEU4585194.1 ribonuclease [Kitasatospora aureofaciens]
+ MEU4860911.1 ribonuclease [Kitasatospora aureofaciens]
+ MEU4943715.1 ribonuclease [Kitasatospora aureofaciens]
+Length=110
+
+ Score = 199 bits (505),  Expect = 9e-64, Method: Compositional matrix adjust.
+ Identities = 96/96 (100%), Positives = 96/96 (100%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC
+Sbjct  75   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  110
+
+
+>P05798.2 RecName: Full=Guanyl-specific ribonuclease Sa; Short=RNase Sa 
+[Kitasatospora aureofaciens]
+ 1AY7_A Chain A, GUANYL-SPECIFIC RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 1C54_A Chain A, RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 1LNI_A Chain A, GUANYL-SPECIFIC RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 1LNI_B Chain B, GUANYL-SPECIFIC RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 1RGE_A Chain A, RIBONUCLEASE [Kitasatospora aureofaciens]
+ 1RGE_B Chain B, RIBONUCLEASE [Kitasatospora aureofaciens]
+ 1RGF_A Chain A, RIBONUCLEASE [Kitasatospora aureofaciens]
+ 1RGG_A Chain A, RIBONUCLEASE [Kitasatospora aureofaciens]
+ 1RGG_B Chain B, RIBONUCLEASE [Kitasatospora aureofaciens]
+ 1RGH_A Chain A, RIBONUCLEASE [Kitasatospora aureofaciens]
+ 1RGH_B Chain B, RIBONUCLEASE [Kitasatospora aureofaciens]
+ AAA81522.1 ribonuclease Sa, partial [synthetic construct]
+Length=96
+
+ Score = 197 bits (500),  Expect = 3e-63, Method: Compositional matrix adjust.
+ Identities = 96/96 (100%), Positives = 96/96 (100%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC
+Sbjct  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+
+
+>1T2H_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+ 1T2H_B Chain B, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 196 bits (499),  Expect = 5e-63, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 96/96 (100%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEATQEDY+TGDHYATFSLIDQTC
+Sbjct  61  GARTRGTRRIITGEATQEDYWTGDHYATFSLIDQTC  96
+
+
+>1I8V_A Chain A, GUANYL-SPECIFIC RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 1I8V_B Chain B, GUANYL-SPECIFIC RIBONUCLEASE SA [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 196 bits (498),  Expect = 7e-63, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 96/96 (100%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEATQED+YTGDHYATFSLIDQTC
+Sbjct  61  GARTRGTRRIITGEATQEDFYTGDHYATFSLIDQTC  96
+
+
+>4J5K_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+ 4J5K_B Chain B, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 196 bits (498),  Expect = 7e-63, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 96/96 (100%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYG+YHEYTVITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGFYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC
+Sbjct  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+
+
+>1I70_A Chain A, GUANYL-SPECIFIC RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 1I70_B Chain B, GUANYL-SPECIFIC RIBONUCLEASE SA [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 196 bits (498),  Expect = 7e-63, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 96/96 (100%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEATQEDYYTGDH+ATFSLIDQTC
+Sbjct  61  GARTRGTRRIITGEATQEDYYTGDHFATFSLIDQTC  96
+
+
+>4GHO_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+ 4GHO_B Chain B, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 196 bits (498),  Expect = 7e-63, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 96/96 (100%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIA+DGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIAADGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC
+Sbjct  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+
+
+>1YNV_X Chain X, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 196 bits (497),  Expect = 8e-63, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 96/96 (100%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEATQEDYYTGDHYATFSLID+TC
+Sbjct  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDKTC  96
+
+
+>4J5G_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+ 4J5G_B Chain B, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 196 bits (497),  Expect = 1e-62, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 95/96 (99%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQ C
+Sbjct  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQAC  96
+
+
+>1UCL_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+ 1UCL_B Chain B, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 195 bits (496),  Expect = 1e-62, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 95/96 (99%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYT ITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTTITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC
+Sbjct  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+
+
+>1UCK_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+ 1UCK_B Chain B, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 195 bits (496),  Expect = 1e-62, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 95/96 (99%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRES LPTQSYGYYHEYTVITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESTLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC
+Sbjct  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+
+
+>1UCJ_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+ 1UCJ_B Chain B, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 195 bits (496),  Expect = 1e-62, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 95/96 (99%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGV FQNRESVLPTQSYGYYHEYTVITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVTFQNRESVLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC
+Sbjct  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+
+
+>1UCI_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+ 1UCI_B Chain B, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 195 bits (496),  Expect = 1e-62, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 95/96 (99%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           D SGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP
+Sbjct  1   DTSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC
+Sbjct  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+
+
+>1T2I_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 195 bits (496),  Expect = 2e-62, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 95/96 (99%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEA QEDYYTGDHYATFSLIDQTC
+Sbjct  61  GARTRGTRRIITGEAWQEDYYTGDHYATFSLIDQTC  96
+
+
+>1RGF_B Chain B, RIBONUCLEASE [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 195 bits (495),  Expect = 2e-62, Method: Compositional matrix adjust.
+ Identities = 95/95 (100%), Positives = 95/95 (100%), Gaps = 0/95 (0%)
+
+Query  2   VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+           VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG
+Sbjct  2   VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+
+Query  62  ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC
+Sbjct  62  ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+
+
+>1BOX_A Chain A, GUANYL-SPECIFIC RIBONUCLEASE SA [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 195 bits (495),  Expect = 2e-62, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 96/96 (100%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQ+RESVLPTQSYGYYHEYTVITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQSRESVLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC
+Sbjct  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+
+
+>1GMP_A Chain A, RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 1GMP_B Chain B, RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 1GMQ_A Chain A, RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 1GMQ_B Chain B, RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 1GMR_A Chain A, RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 1GMR_B Chain B, RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 1RSN_A Chain A, Ribonuclease Sa [Kitasatospora aureofaciens]
+ 1RSN_B Chain B, Ribonuclease Sa [Kitasatospora aureofaciens]
+ 1SAR_A Chain A, RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 1SAR_B Chain B, RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 2SAR_A Chain A, RIBONUCLEASE SA [Kitasatospora aureofaciens]
+ 2SAR_B Chain B, RIBONUCLEASE SA [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 195 bits (495),  Expect = 2e-62, Method: Compositional matrix adjust.
+ Identities = 95/96 (99%), Positives = 95/96 (99%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+           DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP
+Sbjct  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRII GEATQEDYYTGDHYATFSLIDQTC
+Sbjct  61  GARTRGTRRIICGEATQEDYYTGDHYATFSLIDQTC  96
+
+
+>WP_329924858.1 ribonuclease [Streptomyces sp. SP17BM10]
+ MEE1782044.1 ribonuclease [Streptomyces sp. SP17BM10]
+Length=110
+
+ Score = 191 bits (485),  Expect = 1e-60, Method: Compositional matrix adjust.
+ Identities = 92/96 (96%), Positives = 93/96 (97%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRE VLP+QSYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNREQVLPSQSYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRG RRIITGEATQEDYYTGDHYATFSLIDQTC
+Sbjct  75   GAPTRGARRIITGEATQEDYYTGDHYATFSLIDQTC  110
+
+
+>MEU4117229.1 ribonuclease [Kitasatospora sp. NPDC028055]
+Length=110
+
+ Score = 191 bits (485),  Expect = 1e-60, Method: Compositional matrix adjust.
+ Identities = 91/96 (95%), Positives = 93/96 (97%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPP+ATDTLNLIA DGPFPYSQDGVVFQNRE VLP+QSYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPPQATDTLNLIADDGPFPYSQDGVVFQNREGVLPSQSYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GARTRGTRRIITGEA QEDYYTGDHYATFSLIDQTC
+Sbjct  75   GARTRGTRRIITGEAAQEDYYTGDHYATFSLIDQTC  110
+
+
+>3A5E_A Chain A, Guanyl-specific ribonuclease Sa [Kitasatospora aureofaciens]
+Length=96
+
+ Score = 189 bits (481),  Expect = 2e-60, Method: Compositional matrix adjust.
+ Identities = 91/96 (95%), Positives = 93/96 (97%), Gaps = 0/96 (0%)
+
+Query  1   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            VSGTVCLSALPPEAT TLNLIAS GPFPYSQDGVVFQNR+SVLPTQSYGYYHEYTVITP
+Sbjct  1   KVSGTVCLSALPPEATKTLNLIASKGPFPYSQDGVVFQNRKSVLPTQSYGYYHEYTVITP  60
+
+Query  61  GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+           GARTRGTRRIITG+ATQEDYYTGDHYATFSLIDQTC
+Sbjct  61  GARTRGTRRIITGKATQEDYYTGDHYATFSLIDQTC  96
+
+
+>MEV7022591.1 ribonuclease [Kitasatospora sp. NPDC093558]
+Length=110
+
+ Score = 189 bits (481),  Expect = 4e-60, Method: Compositional matrix adjust.
+ Identities = 91/96 (95%), Positives = 93/96 (97%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPPEATDTLNLIA+DGPFPYSQDGVVFQNRE VLPTQSYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPPEATDTLNLIATDGPFPYSQDGVVFQNREHVLPTQSYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRG RRIITG+ATQEDYYTGDHYATFSLIDQTC
+Sbjct  75   GAPTRGARRIITGQATQEDYYTGDHYATFSLIDQTC  110
+
+
+>MBV6698968.1 ribonuclease [Kitasatospora aureofaciens]
+Length=130
+
+ Score = 190 bits (482),  Expect = 6e-60, Method: Compositional matrix adjust.
+ Identities = 89/96 (93%), Positives = 93/96 (97%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPPEATDTLNLIA+DGPFPYSQDGVVFQNRE VLP+QSYGYYHEYTVITP
+Sbjct  35   DVSGTVCLSALPPEATDTLNLIATDGPFPYSQDGVVFQNREQVLPSQSYGYYHEYTVITP  94
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRG RRIITG+A+QEDYYTGDHYATFSLIDQTC
+Sbjct  95   GAPTRGARRIITGQASQEDYYTGDHYATFSLIDQTC  130
+
+
+>WP_223241766.1 ribonuclease [Streptomyces sp. CBMA123]
+ MBD0689100.1 guanyl-specific ribonuclease Sa [Streptomyces sp. CBMA123]
+Length=110
+
+ Score = 189 bits (479),  Expect = 8e-60, Method: Compositional matrix adjust.
+ Identities = 90/96 (94%), Positives = 93/96 (97%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLS LPPEATDTLNLIASDGPFPYSQDGVVFQNRE VLP+QSYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSTLPPEATDTLNLIASDGPFPYSQDGVVFQNREGVLPSQSYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITGEA+QEDYYTGDHYATFSL+DQTC
+Sbjct  75   GAPTRGTRRIITGEASQEDYYTGDHYATFSLVDQTC  110
+
+
+>WP_256177589.1 ribonuclease [Kitasatospora aureofaciens]
+Length=110
+
+ Score = 187 bits (476),  Expect = 2e-59, Method: Compositional matrix adjust.
+ Identities = 89/96 (93%), Positives = 93/96 (97%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPPEATDTLNLIA+DGPFPYSQDGVVFQNRE VLP+QSYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPPEATDTLNLIATDGPFPYSQDGVVFQNREQVLPSQSYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRG RRIITG+A+QEDYYTGDHYATFSLIDQTC
+Sbjct  75   GAPTRGARRIITGQASQEDYYTGDHYATFSLIDQTC  110
+
+
+>MEU8510658.1 ribonuclease [Kitasatospora sp. NPDC048722]
+Length=110
+
+ Score = 187 bits (475),  Expect = 3e-59, Method: Compositional matrix adjust.
+ Identities = 90/96 (94%), Positives = 92/96 (96%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPPEATDTLNLIA+DGPFPYSQDGVVFQNRE VLP QSYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPPEATDTLNLIATDGPFPYSQDGVVFQNREQVLPGQSYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRG RRIITG+ATQEDYYTGDHYATFSLIDQTC
+Sbjct  75   GAPTRGARRIITGQATQEDYYTGDHYATFSLIDQTC  110
+
+
+>WP_350505703.1 ribonuclease [Kitasatospora sp. NPDC096128]
+ MER7670062.1 ribonuclease [Kitasatospora sp. NPDC096128]
+Length=111
+
+ Score = 187 bits (475),  Expect = 3e-59, Method: Compositional matrix adjust.
+ Identities = 89/96 (93%), Positives = 93/96 (97%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCL+ALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLP+QSYGYYHEYTVITP
+Sbjct  16   DVSGTVCLTALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPSQSYGYYHEYTVITP  75
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRG RRIITG+ +QEDYYTGDHYATFSLIDQTC
+Sbjct  76   GAPTRGARRIITGQQSQEDYYTGDHYATFSLIDQTC  111
+
+
+>WP_350512657.1 ribonuclease [Kitasatospora sp. NPDC096077]
+ MER7844458.1 ribonuclease [Kitasatospora sp. NPDC096077]
+Length=110
+
+ Score = 186 bits (473),  Expect = 6e-59, Method: Compositional matrix adjust.
+ Identities = 90/96 (94%), Positives = 92/96 (96%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALP +ATDTLNLIASDGPFPYSQDGVVFQNRE VLP+QSYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPSQATDTLNLIASDGPFPYSQDGVVFQNREGVLPSQSYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITGEA QEDYYTGDHYATFSLIDQTC
+Sbjct  75   GAPTRGTRRIITGEAAQEDYYTGDHYATFSLIDQTC  110
+
+
+>WP_270141703.1 ribonuclease [Kitasatospora cathayae]
+ WBP85618.1 ribonuclease [Kitasatospora cathayae]
+Length=130
+
+ Score = 186 bits (472),  Expect = 2e-58, Method: Compositional matrix adjust.
+ Identities = 88/96 (92%), Positives = 91/96 (95%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVF NRESVLP+QSYGYYHEYTVITP
+Sbjct  35   DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFTNRESVLPSQSYGYYHEYTVITP  94
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRG RRI+TG+  QEDYYTGDHYATFSLIDQTC
+Sbjct  95   GAPTRGARRIVTGQQDQEDYYTGDHYATFSLIDQTC  130
+
+
+>MDH6709631.1 ribonuclease T1 [Kitasatospora sp. MAA19]
+Length=132
+
+ Score = 185 bits (469),  Expect = 7e-58, Method: Compositional matrix adjust.
+ Identities = 89/96 (93%), Positives = 91/96 (95%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALP EATDTLNLIASDGPFPYSQDGVVFQNRE VLP+QSYGYYHEYTVITP
+Sbjct  37   DVSGTVCLSALPAEATDTLNLIASDGPFPYSQDGVVFQNREHVLPSQSYGYYHEYTVITP  96
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITG+ TQEDYYTGDHYATFSLIDQ C
+Sbjct  97   GAPTRGTRRIITGQETQEDYYTGDHYATFSLIDQGC  132
+
+
+>WP_280684774.1 ribonuclease [Kitasatospora sp. MAA19]
+Length=110
+
+ Score = 184 bits (466),  Expect = 8e-58, Method: Compositional matrix adjust.
+ Identities = 89/96 (93%), Positives = 91/96 (95%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALP EATDTLNLIASDGPFPYSQDGVVFQNRE VLP+QSYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPAEATDTLNLIASDGPFPYSQDGVVFQNREHVLPSQSYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITG+ TQEDYYTGDHYATFSLIDQ C
+Sbjct  75   GAPTRGTRRIITGQETQEDYYTGDHYATFSLIDQGC  110
+
+
+>WSK08821.1 ribonuclease [Kitasatospora sp. NBC_01300]
+Length=110
+
+ Score = 184 bits (466),  Expect = 9e-58, Method: Compositional matrix adjust.
+ Identities = 88/96 (92%), Positives = 91/96 (95%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLS LPPEATDTLNLIA+DGPFPYSQDGVVFQNRE VLP+QSYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSTLPPEATDTLNLIATDGPFPYSQDGVVFQNREHVLPSQSYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITG+ATQEDYYTGDHY TFSLIDQ C
+Sbjct  75   GAPTRGTRRIITGQATQEDYYTGDHYVTFSLIDQGC  110
+
+
+>MEV7357143.1 ribonuclease [Kitasatospora sp. NPDC091276]
+ MEV7929290.1 ribonuclease [Kitasatospora sp. NPDC088779]
+ MEV7938335.1 ribonuclease [Kitasatospora sp. NPDC088264]
+Length=110
+
+ Score = 183 bits (464),  Expect = 2e-57, Method: Compositional matrix adjust.
+ Identities = 88/96 (92%), Positives = 91/96 (95%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPPEATDTLNLIA+DGPFPYSQDGVVFQNRE VLP+QS GYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPPEATDTLNLIATDGPFPYSQDGVVFQNREHVLPSQSNGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITG+ATQEDYYTGDHY TFSLIDQ C
+Sbjct  75   GAPTRGTRRIITGQATQEDYYTGDHYVTFSLIDQGC  110
+
+
+>WP_244293725.1 MULTISPECIES: ribonuclease [Streptomycetaceae]
+ MEV8324318.1 ribonuclease [Kitasatospora sp. NPDC056731]
+Length=110
+
+ Score = 182 bits (462),  Expect = 3e-57, Method: Compositional matrix adjust.
+ Identities = 88/96 (92%), Positives = 90/96 (94%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLS LPPEATDTLNLIA+DGPFPYSQDGVVFQNRE VLP QSYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSTLPPEATDTLNLIATDGPFPYSQDGVVFQNREHVLPGQSYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITG+ATQEDYYTGDHY TFSLIDQ C
+Sbjct  75   GAPTRGTRRIITGQATQEDYYTGDHYVTFSLIDQGC  110
+
+
+>MEV7600794.1 ribonuclease [Kitasatospora sp. NPDC089797]
+Length=110
+
+ Score = 182 bits (462),  Expect = 3e-57, Method: Compositional matrix adjust.
+ Identities = 87/96 (91%), Positives = 91/96 (95%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALP +A DTLNLIASDGPFPYSQDGVVFQNRE VLP+QSYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPSQAADTLNLIASDGPFPYSQDGVVFQNREGVLPSQSYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITGEA+QEDYYTGDHYATF L+DQTC
+Sbjct  75   GAPTRGTRRIITGEASQEDYYTGDHYATFYLVDQTC  110
+
+
+>WP_350879201.1 ribonuclease [Kitasatospora sp. NPDC094016]
+ MER8101264.1 ribonuclease [Kitasatospora sp. NPDC094016]
+Length=110
+
+ Score = 181 bits (460),  Expect = 6e-57, Method: Compositional matrix adjust.
+ Identities = 87/96 (91%), Positives = 90/96 (94%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPPEATDTLNLIA+DGPFPYSQDGVVFQNRE VLP+QS GYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPPEATDTLNLIATDGPFPYSQDGVVFQNREHVLPSQSNGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITG+A QEDYYTGDHY TFSLIDQ C
+Sbjct  75   GAPTRGTRRIITGQAVQEDYYTGDHYVTFSLIDQGC  110
+
+
+>MBO1418975.1 ribonuclease [Streptomyces sp. FH025]
+Length=130
+
+ Score = 181 bits (459),  Expect = 2e-56, Method: Compositional matrix adjust.
+ Identities = 86/96 (90%), Positives = 91/96 (95%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALP +ATDTLNLIASDGPFPYSQDGVVFQNRE VLP++SYGYYHEYTVITP
+Sbjct  35   DVSGTVCLSALPSQATDTLNLIASDGPFPYSQDGVVFQNREGVLPSESYGYYHEYTVITP  94
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITG+A QEDYYTGDHYATF LIDQ+C
+Sbjct  95   GAPTRGTRRIITGQAYQEDYYTGDHYATFYLIDQSC  130
+
+
+>WP_243437760.1 ribonuclease [Streptomyces sp. FH025]
+Length=110
+
+ Score = 179 bits (454),  Expect = 5e-56, Method: Compositional matrix adjust.
+ Identities = 86/96 (90%), Positives = 91/96 (95%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALP +ATDTLNLIASDGPFPYSQDGVVFQNRE VLP++SYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPSQATDTLNLIASDGPFPYSQDGVVFQNREGVLPSESYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITG+A QEDYYTGDHYATF LIDQ+C
+Sbjct  75   GAPTRGTRRIITGQAYQEDYYTGDHYATFYLIDQSC  110
+
+
+>WP_049650667.1 MULTISPECIES: ribonuclease [Streptomycetaceae]
+ OKI03370.1 guanyl-specific ribonuclease Sa [Streptomyces sp. CB02056]
+Length=110
+
+ Score = 178 bits (451),  Expect = 2e-55, Method: Compositional matrix adjust.
+ Identities = 83/96 (86%), Positives = 91/96 (95%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG+VCLSALP +ATDTLNLIAS GPFPYSQDGVVFQNRE VLP++SYGYYHEYTVITP
+Sbjct  15   DVSGSVCLSALPSQATDTLNLIASGGPFPYSQDGVVFQNREGVLPSESYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            G+ TRG RRI+TG+A+QEDYYTGDHYATFSLIDQTC
+Sbjct  75   GSPTRGARRIVTGQASQEDYYTGDHYATFSLIDQTC  110
+
+
+>RGD56015.1 ribonuclease [Kitasatospora xanthocidica]
+Length=130
+
+ Score = 178 bits (452),  Expect = 2e-55, Method: Compositional matrix adjust.
+ Identities = 83/96 (86%), Positives = 91/96 (95%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG+VCLSALP +ATDTLNLIAS GPFPYSQDGVVFQNRE VLP++SYGYYHEYTVITP
+Sbjct  35   DVSGSVCLSALPSQATDTLNLIASGGPFPYSQDGVVFQNREGVLPSESYGYYHEYTVITP  94
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            G+ TRG RRI+TG+A+QEDYYTGDHYATFSLIDQTC
+Sbjct  95   GSPTRGARRIVTGQASQEDYYTGDHYATFSLIDQTC  130
+
+
+>MEU8923274.1 ribonuclease [Kitasatospora sp. NPDC048545]
+Length=110
+
+ Score = 177 bits (449),  Expect = 3e-55, Method: Compositional matrix adjust.
+ Identities = 83/96 (86%), Positives = 89/96 (93%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLS LPPEATDTLNLIASDGPFPYSQDGVVFQNRE VLP +SYGYYHEYTV+TP
+Sbjct  15   DVSGTVCLSTLPPEATDTLNLIASDGPFPYSQDGVVFQNREHVLPGESYGYYHEYTVVTP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            G+ TRG RRI+TG+  QEDYYTGDHYATFSL+DQTC
+Sbjct  75   GSPTRGARRIVTGQGDQEDYYTGDHYATFSLLDQTC  110
+
+
+>WP_350748936.1 ribonuclease [Kitasatospora sp. NPDC001539]
+ MER6303837.1 ribonuclease [Kitasatospora sp. NPDC001539]
+Length=110
+
+ Score = 177 bits (449),  Expect = 3e-55, Method: Compositional matrix adjust.
+ Identities = 85/96 (89%), Positives = 89/96 (93%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            +VSGTVCLS LPPEATDTL+LIASDGPFPYSQDGVVFQNRE VLP +SYGYYHEYTVITP
+Sbjct  15   EVSGTVCLSVLPPEATDTLDLIASDGPFPYSQDGVVFQNREGVLPRESYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRG RRIITG+  QEDYYTGDHYATFSLIDQTC
+Sbjct  75   GAPTRGARRIITGQQDQEDYYTGDHYATFSLIDQTC  110
+
+
+>MEU9076031.1 ribonuclease [Kitasatospora sp. NPDC048538]
+ MEV6467161.1 ribonuclease [Kitasatospora sp. NPDC051702]
+Length=110
+
+ Score = 177 bits (449),  Expect = 3e-55, Method: Compositional matrix adjust.
+ Identities = 85/96 (89%), Positives = 90/96 (94%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPPEA+DTL+LIA+DGPFPYSQDGVVFQNRE VLP +SYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPPEASDTLDLIATDGPFPYSQDGVVFQNREHVLPGRSYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRG RRIITGEA QEDYYTGDHYA+FSLIDQ C
+Sbjct  75   GAPTRGARRIITGEAYQEDYYTGDHYASFSLIDQGC  110
+
+
+>KJS56579.1 hypothetical protein VM98_06575 [Streptomyces rubellomurinus 
+subsp. indigoferus]
+ KJS60952.1 hypothetical protein VM95_18275 [Streptomyces rubellomurinus]
+Length=130
+
+ Score = 177 bits (450),  Expect = 4e-55, Method: Compositional matrix adjust.
+ Identities = 85/95 (89%), Positives = 88/95 (93%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSGTVCL+ALP EA DTLNLIASDGPFPYSQDGVVFQNRE VLPTQSYGYYHEYTVITPG
+Sbjct  36   VSGTVCLTALPQEADDTLNLIASDGPFPYSQDGVVFQNREHVLPTQSYGYYHEYTVITPG  95
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            A TRG RRIITG+  QEDYYTGDHYATFSLIDQ+C
+Sbjct  96   APTRGARRIITGQGDQEDYYTGDHYATFSLIDQSC  130
+
+
+>WP_244178833.1 ribonuclease [Streptomyces rubellomurinus]
+Length=111
+
+ Score = 177 bits (449),  Expect = 4e-55, Method: Compositional matrix adjust.
+ Identities = 85/95 (89%), Positives = 88/95 (93%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSGTVCL+ALP EA DTLNLIASDGPFPYSQDGVVFQNRE VLPTQSYGYYHEYTVITPG
+Sbjct  17   VSGTVCLTALPQEADDTLNLIASDGPFPYSQDGVVFQNREHVLPTQSYGYYHEYTVITPG  76
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            A TRG RRIITG+  QEDYYTGDHYATFSLIDQ+C
+Sbjct  77   APTRGARRIITGQGDQEDYYTGDHYATFSLIDQSC  111
+
+
+>WP_316526002.1 ribonuclease [Kitasatospora brasiliensis]
+Length=110
+
+ Score = 176 bits (445),  Expect = 2e-54, Method: Compositional matrix adjust.
+ Identities = 83/95 (87%), Positives = 89/95 (94%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSGTVCLSALP +A+DTLNLIASDGPFPYSQDGVVFQNRE VLP +SYGYYHEYTVITPG
+Sbjct  16   VSGTVCLSALPSQASDTLNLIASDGPFPYSQDGVVFQNREGVLPGESYGYYHEYTVITPG  75
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRI+TG+A QEDYYTGDHYATFSLIDQTC
+Sbjct  76   SPTRGARRIVTGQAYQEDYYTGDHYATFSLIDQTC  110
+
+
+>WP_234327215.1 ribonuclease [Streptomyces sp. NRRL WC-3742]
+Length=110
+
+ Score = 175 bits (444),  Expect = 2e-54, Method: Compositional matrix adjust.
+ Identities = 81/95 (85%), Positives = 87/95 (92%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG+VCLS LPPEA DTLNLIA+DGPFPYSQDGVVFQNRE VLP+QSYGYYHEYTVITPG
+Sbjct  16   VSGSVCLSTLPPEANDTLNLIATDGPFPYSQDGVVFQNREQVLPSQSYGYYHEYTVITPG  75
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RR++TGE  QEDYYTGDHYATF LIDQTC
+Sbjct  76   SPTRGARRVVTGEGVQEDYYTGDHYATFWLIDQTC  110
+
+
+>MEU3570658.1 ribonuclease [Kitasatospora sp. NPDC036755]
+Length=110
+
+ Score = 175 bits (444),  Expect = 2e-54, Method: Compositional matrix adjust.
+ Identities = 82/96 (85%), Positives = 90/96 (94%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG+VCLSALPP+A+DTL LIAS GPFPYSQDGVVFQNRE VLP++SYGYYHEYTVITP
+Sbjct  15   DVSGSVCLSALPPQASDTLGLIASGGPFPYSQDGVVFQNREGVLPSESYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            G+ TRG RRI+TG+A QEDYYTGDHYATFSLIDQTC
+Sbjct  75   GSPTRGARRIVTGQAYQEDYYTGDHYATFSLIDQTC  110
+
+
+>MET8629000.1 ribonuclease [Kitasatospora sp. NPDC004669]
+Length=111
+
+ Score = 175 bits (444),  Expect = 2e-54, Method: Compositional matrix adjust.
+ Identities = 84/96 (88%), Positives = 88/96 (92%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLS LPPEATDTLNLI++ GPFPYSQDGVVFQNR SVLP QSYGYYHEYTVITP
+Sbjct  16   DVSGTVCLSTLPPEATDTLNLISTGGPFPYSQDGVVFQNRGSVLPGQSYGYYHEYTVITP  75
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRG RRI+TG+  QEDYYTGDHYATFSLIDQTC
+Sbjct  76   GAPTRGARRIVTGQQDQEDYYTGDHYATFSLIDQTC  111
+
+
+>WP_196952487.1 ribonuclease [Kitasatospora sp. SUK 42]
+ MBV2155904.1 ribonuclease [Kitasatospora sp. SUK 42]
+Length=130
+
+ Score = 176 bits (445),  Expect = 2e-54, Method: Compositional matrix adjust.
+ Identities = 84/96 (88%), Positives = 90/96 (94%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLS+LP +ATDTLNLIA+ GPFPYSQDGVVFQNRE VLP++SYGYYHEYTVITP
+Sbjct  35   DVSGTVCLSSLPSQATDTLNLIATGGPFPYSQDGVVFQNREGVLPSESYGYYHEYTVITP  94
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITG+A QEDYYTGDHYATF LIDQTC
+Sbjct  95   GAPTRGTRRIITGQAYQEDYYTGDHYATFYLIDQTC  130
+
+
+>WP_051829711.1 MULTISPECIES: ribonuclease [Streptomyces]
+Length=110
+
+ Score = 174 bits (441),  Expect = 5e-54, Method: Compositional matrix adjust.
+ Identities = 82/95 (86%), Positives = 88/95 (93%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRE VLP +  GYYHEYTVITPG
+Sbjct  16   VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNREGVLPREFSGYYHEYTVITPG  75
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRI+TG+A QEDYYTGDHYATFSL+DQ+C
+Sbjct  76   SPTRGARRIVTGQADQEDYYTGDHYATFSLVDQSC  110
+
+
+>MEV7773961.1 ribonuclease [Kitasatospora sp. NPDC086791]
+Length=110
+
+ Score = 174 bits (440),  Expect = 8e-54, Method: Compositional matrix adjust.
+ Identities = 81/95 (85%), Positives = 88/95 (93%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSGTVCLSALPPEA DTL+LIASDGPFPYSQDGVVFQNRE VLP +SYGYYHEYTV+TPG
+Sbjct  16   VSGTVCLSALPPEAADTLDLIASDGPFPYSQDGVVFQNREHVLPGESYGYYHEYTVVTPG  75
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRI+TG+  QEDYYTGDHYATFSL+DQTC
+Sbjct  76   SPTRGARRIVTGQGYQEDYYTGDHYATFSLVDQTC  110
+
+
+>WP_257032988.1 MULTISPECIES: ribonuclease [unclassified Streptomyces]
+Length=110
+
+ Score = 173 bits (439),  Expect = 1e-53, Method: Compositional matrix adjust.
+ Identities = 82/95 (86%), Positives = 89/95 (94%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSGTVCLSALP EATDTL+LIASDGPFPYSQDGVVFQNRE+VLP +SYGYYHEYTVITPG
+Sbjct  16   VSGTVCLSALPSEATDTLDLIASDGPFPYSQDGVVFQNRENVLPRESYGYYHEYTVITPG  75
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRI+TG+  QEDYYTGDHYATFSLIDQ+C
+Sbjct  76   SPTRGARRIVTGQEYQEDYYTGDHYATFSLIDQSC  110
+
+
+>RKT12038.1 ribonuclease T1 [Streptomyces sp. 1114.5]
+ SOB80009.1 ribonuclease T1 [Streptomyces sp. 1331.2]
+Length=139
+
+ Score = 174 bits (441),  Expect = 1e-53, Method: Compositional matrix adjust.
+ Identities = 82/95 (86%), Positives = 89/95 (94%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSGTVCLSALP EATDTL+LIASDGPFPYSQDGVVFQNRE+VLP +SYGYYHEYTVITPG
+Sbjct  45   VSGTVCLSALPSEATDTLDLIASDGPFPYSQDGVVFQNRENVLPRESYGYYHEYTVITPG  104
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRI+TG+  QEDYYTGDHYATFSLIDQ+C
+Sbjct  105  SPTRGARRIVTGQEYQEDYYTGDHYATFSLIDQSC  139
+
+
+>WP_234322889.1 ribonuclease [Streptomyces sp. NRRL S-350]
+Length=110
+
+ Score = 172 bits (437),  Expect = 2e-53, Method: Compositional matrix adjust.
+ Identities = 81/96 (84%), Positives = 88/96 (92%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            +VSGTVCLSALP EATDTL+LIASDGPFPYSQDGVVFQNRE VLP++  GYYHEYTVITP
+Sbjct  15   EVSGTVCLSALPSEATDTLDLIASDGPFPYSQDGVVFQNREHVLPSEPSGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            G+ TRG RRI+TGE  QEDYYTGDHYATFSL+DQTC
+Sbjct  75   GSPTRGARRIVTGEGAQEDYYTGDHYATFSLVDQTC  110
+
+
+>MEU1288778.1 ribonuclease [Kitasatospora sp. NPDC005856]
+Length=130
+
+ Score = 172 bits (437),  Expect = 5e-53, Method: Compositional matrix adjust.
+ Identities = 81/96 (84%), Positives = 89/96 (93%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG+VCLSALPP+A DTL+LIASDGPFPYSQDGVVFQNRE VLP +SYGYYHEYTVITP
+Sbjct  35   DVSGSVCLSALPPQAADTLDLIASDGPFPYSQDGVVFQNREGVLPGESYGYYHEYTVITP  94
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            G+ TRG RRI+TG+  +EDYYTGDHYATFSLIDQTC
+Sbjct  95   GSPTRGARRIVTGQDYREDYYTGDHYATFSLIDQTC  130
+
+
+>WP_350630955.1 ribonuclease [Kitasatospora sp. NPDC097691]
+ MER7582912.1 ribonuclease [Kitasatospora sp. NPDC097691]
+Length=110
+
+ Score = 171 bits (434),  Expect = 6e-53, Method: Compositional matrix adjust.
+ Identities = 79/95 (83%), Positives = 88/95 (93%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG+VCLSALPPEA DTL+LIASDGPFPYSQDGVVFQNRE VLP++SYGYYHEYTV+TPG
+Sbjct  16   VSGSVCLSALPPEAADTLDLIASDGPFPYSQDGVVFQNREHVLPSESYGYYHEYTVVTPG  75
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRI+TG+  QEDYYTGDHYATF L+DQTC
+Sbjct  76   SPTRGARRIVTGQDYQEDYYTGDHYATFRLVDQTC  110
+
+
+>GAA3034746.1 hypothetical protein GCM10010519_70650 [Streptomyces lactacystinicus]
+Length=130
+
+ Score = 172 bits (435),  Expect = 7e-53, Method: Compositional matrix adjust.
+ Identities = 81/96 (84%), Positives = 87/96 (91%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALP +A DTL+LIAS GPFPYSQDGVVFQNRE VLP +SYGYYHEYTVITP
+Sbjct  35   DVSGTVCLSALPSQAADTLDLIASGGPFPYSQDGVVFQNREGVLPGESYGYYHEYTVITP  94
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            G+ TRG RRI+TG + QEDYYTGDHYATFSLIDQTC
+Sbjct  95   GSPTRGARRIVTGRSYQEDYYTGDHYATFSLIDQTC  130
+
+
+>MQS15429.1 ribonuclease [Streptomyces kaniharaensis]
+Length=130
+
+ Score = 171 bits (434),  Expect = 1e-52, Method: Compositional matrix adjust.
+ Identities = 80/96 (83%), Positives = 87/96 (91%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPPEATDTLNLIA+DGPFP+ QDG VFQNRE VLP+QS GYYHEYTVITP
+Sbjct  35   DVSGTVCLSALPPEATDTLNLIATDGPFPFDQDGQVFQNREHVLPSQSNGYYHEYTVITP  94
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+             + TRG RR++TGEA QEDYYTGDHYATFSLI+Q C
+Sbjct  95   DSPTRGARRVVTGEAFQEDYYTGDHYATFSLINQGC  130
+
+
+>MEU9045429.1 ribonuclease [Kitasatospora sp. NPDC048343]
+Length=110
+
+ Score = 170 bits (431),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 79/95 (83%), Positives = 88/95 (93%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG+VCLS LP EATDTL+LIASDGPFPYSQDGVVFQNRE VLP++SYGYYHEYTV+TPG
+Sbjct  16   VSGSVCLSTLPSEATDTLDLIASDGPFPYSQDGVVFQNREGVLPSESYGYYHEYTVVTPG  75
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRI+TG+  QEDYYTGDHYATFSL+DQTC
+Sbjct  76   SPTRGARRIVTGQDYQEDYYTGDHYATFSLVDQTC  110
+
+
+>GHF55689.1 hypothetical protein GCM10018790_36970 [Kitasatospora xanthocidica]
+Length=130
+
+ Score = 171 bits (432),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 79/95 (83%), Positives = 86/95 (91%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSGTVCLSALPPEA DTL+LIASDGPFPYSQDGVVF+N E VLP+Q  GYYHEYTV+TPG
+Sbjct  36   VSGTVCLSALPPEAGDTLDLIASDGPFPYSQDGVVFRNSERVLPSQFSGYYHEYTVVTPG  95
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            +RTRG RRI+TG+  QEDYYTGDHYATFSLIDQ C
+Sbjct  96   SRTRGARRIVTGQGNQEDYYTGDHYATFSLIDQGC  130
+
+
+>MEU3563755.1 ribonuclease [Kitasatospora sp. NPDC006786]
+ WTK57093.1 ribonuclease [Kitasatospora sp. NBC_01519]
+Length=110
+
+ Score = 170 bits (430),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 81/96 (84%), Positives = 87/96 (91%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALP +A DTL+LIAS GPFPYSQDGVVFQNRE VLP +SYGYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPSQAADTLDLIASGGPFPYSQDGVVFQNREGVLPGESYGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            G+ TRG RRI+TG + QEDYYTGDHYATFSLIDQTC
+Sbjct  75   GSPTRGARRIVTGRSYQEDYYTGDHYATFSLIDQTC  110
+
+
+>WP_230210889.1 ribonuclease [Streptomyces kaniharaensis]
+Length=110
+
+ Score = 170 bits (430),  Expect = 3e-52, Method: Compositional matrix adjust.
+ Identities = 80/96 (83%), Positives = 87/96 (91%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALPPEATDTLNLIA+DGPFP+ QDG VFQNRE VLP+QS GYYHEYTVITP
+Sbjct  15   DVSGTVCLSALPPEATDTLNLIATDGPFPFDQDGQVFQNREHVLPSQSNGYYHEYTVITP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+             + TRG RR++TGEA QEDYYTGDHYATFSLI+Q C
+Sbjct  75   DSPTRGARRVVTGEAFQEDYYTGDHYATFSLINQGC  110
+
+
+>WP_229928717.1 ribonuclease [Kitasatospora xanthocidica]
+Length=110
+
+ Score = 169 bits (427),  Expect = 8e-52, Method: Compositional matrix adjust.
+ Identities = 79/95 (83%), Positives = 86/95 (91%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSGTVCLSALPPEA DTL+LIASDGPFPYSQDGVVF+N E VLP+Q  GYYHEYTV+TPG
+Sbjct  16   VSGTVCLSALPPEAGDTLDLIASDGPFPYSQDGVVFRNSERVLPSQFSGYYHEYTVVTPG  75
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            +RTRG RRI+TG+  QEDYYTGDHYATFSLIDQ C
+Sbjct  76   SRTRGARRIVTGQGNQEDYYTGDHYATFSLIDQGC  110
+
+
+>WP_350601384.1 ribonuclease [Kitasatospora sp. NPDC097643]
+ MER7755864.1 ribonuclease [Kitasatospora sp. NPDC097643]
+Length=110
+
+ Score = 167 bits (423),  Expect = 3e-51, Method: Compositional matrix adjust.
+ Identities = 79/95 (83%), Positives = 85/95 (89%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSGTVCLS LP EATDTLNLIA DGPFPYSQDGVVFQNRE VLPT++YGYYHEYTVITPG
+Sbjct  16   VSGTVCLSNLPAEATDTLNLIADDGPFPYSQDGVVFQNREHVLPTRTYGYYHEYTVITPG  75
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRI+TGE  QEDYYTGDHYA+F LI+Q C
+Sbjct  76   SPTRGARRIVTGEGDQEDYYTGDHYASFWLINQGC  110
+
+
+>MEV0536623.1 ribonuclease [Kitasatospora sp. NPDC050463]
+Length=130
+
+ Score = 166 bits (421),  Expect = 1e-50, Method: Compositional matrix adjust.
+ Identities = 77/95 (81%), Positives = 86/95 (91%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG+VCLSALPPEA DTL+LIASDGPFPYSQDGVVFQNRE VLP+++ GYYHEYTV+TPG
+Sbjct  36   VSGSVCLSALPPEADDTLDLIASDGPFPYSQDGVVFQNRERVLPSRTAGYYHEYTVVTPG  95
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRI+TG+A QEDYYTGDHYATF LI  TC
+Sbjct  96   SPTRGARRIVTGQADQEDYYTGDHYATFRLIKFTC  130
+
+
+>WP_350524813.1 ribonuclease domain-containing protein [Kitasatospora sp. NPDC096140]
+ MER7771212.1 ribonuclease domain-containing protein [Kitasatospora sp. NPDC096140]
+Length=109
+
+ Score = 165 bits (417),  Expect = 2e-50, Method: Compositional matrix adjust.
+ Identities = 76/95 (80%), Positives = 86/95 (91%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG+VCLSALP EA DTL+LIASDGPFPYSQDGVVFQNRE VLP++ YGYYHEYTV+TPG
+Sbjct  15   VSGSVCLSALPSEAADTLDLIASDGPFPYSQDGVVFQNREHVLPSEYYGYYHEYTVVTPG  74
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRI+TG+  QEDYYTGDHYATF L+DQ+C
+Sbjct  75   SPTRGARRIVTGQNYQEDYYTGDHYATFYLVDQSC  109
+
+
+>MET8545384.1 ribonuclease domain-containing protein [Kitasatospora sp. NPDC004799]
+Length=110
+
+ Score = 162 bits (411),  Expect = 2e-49, Method: Compositional matrix adjust.
+ Identities = 75/96 (78%), Positives = 87/96 (91%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGTVCLSALP +A DTL+LIAS GPFPYSQDGVVFQNRE VLP++ YGYYHEYTV+TP
+Sbjct  15   DVSGTVCLSALPSQAADTLDLIASGGPFPYSQDGVVFQNREHVLPSEYYGYYHEYTVVTP  74
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            G+ TRG RRI+TG+A +EDYYTGDHYA+F LI+Q+C
+Sbjct  75   GSPTRGARRIVTGQAYREDYYTGDHYASFYLINQSC  110
+
+
+>WP_145902865.1 ribonuclease [Kitasatospora viridis]
+ TWF96520.1 ribonuclease T1 [Kitasatospora viridis]
+ GAA1947881.1 hypothetical protein GCM10009738_21530 [Kitasatospora viridis]
+Length=130
+
+ Score = 162 bits (410),  Expect = 5e-49, Method: Compositional matrix adjust.
+ Identities = 77/96 (80%), Positives = 81/96 (84%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG +C SALP +A DTLN IA  GPFPYSQDGVVFQNRE VLP+Q YGYYHEYTV+TP
+Sbjct  35   DVSGNICQSALPSQADDTLNEIADGGPFPYSQDGVVFQNREGVLPSQDYGYYHEYTVVTP  94
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITGE  QEDYYT DHYATF LID TC
+Sbjct  95   GASTRGTRRIITGEGAQEDYYTSDHYATFYLIDFTC  130
+
+
+>WP_280697547.1 ribonuclease [Kitasatospora sp. GP82]
+ MDH6125533.1 ribonuclease T1 [Kitasatospora sp. GP82]
+Length=130
+
+ Score = 162 bits (410),  Expect = 5e-49, Method: Compositional matrix adjust.
+ Identities = 77/96 (80%), Positives = 83/96 (86%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG+VCL+ALP +A DTL LI SDGPFPYSQDGVVF NRE VLP++ YGYYHEYTVITP
+Sbjct  35   DVSGSVCLTALPSQADDTLALIDSDGPFPYSQDGVVFTNREGVLPSEDYGYYHEYTVITP  94
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GARTRGTRRIITG+A  EDYYT DHYATF LID  C
+Sbjct  95   GARTRGTRRIITGQADHEDYYTSDHYATFRLIDFGC  130
+
+
+>WP_045298209.1 ribonuclease [Saccharothrix sp. ST-888]
+ KJK59993.1 hypothetical protein UK12_00635 [Saccharothrix sp. ST-888]
+Length=131
+
+ Score = 161 bits (408),  Expect = 1e-48, Method: Compositional matrix adjust.
+ Identities = 76/96 (79%), Positives = 85/96 (89%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG+VCL+ALP +A DTL+LI + GPFPYSQDGVVFQNRE+VLP++SYGYYHEYTVITP
+Sbjct  36   DVSGSVCLTALPSQADDTLSLIDNGGPFPYSQDGVVFQNRENVLPSESYGYYHEYTVITP  95
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITGE  QEDYYT DHY TF LID +C
+Sbjct  96   GAPTRGTRRIITGEGYQEDYYTSDHYTTFRLIDFSC  131
+
+
+>WP_141632940.1 ribonuclease [Kitasatospora acidiphila]
+ TQF02238.1 ribonuclease [Kitasatospora acidiphila]
+Length=131
+
+ Score = 161 bits (407),  Expect = 1e-48, Method: Compositional matrix adjust.
+ Identities = 78/96 (81%), Positives = 81/96 (84%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG +C SALP +A DTLN IA+ GPFPYSQDGVVFQNRE VLP QSYGYYHEYTVITP
+Sbjct  36   DVSGNICQSALPQQADDTLNEIANGGPFPYSQDGVVFQNREGVLPAQSYGYYHEYTVITP  95
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRG RRIITGE  QEDYYT DHYATF LID TC
+Sbjct  96   GAPTRGARRIITGEGDQEDYYTSDHYATFYLIDFTC  131
+
+
+>WP_230047638.1 ribonuclease [Kitasatospora humi]
+ MCC9305536.1 ribonuclease [Kitasatospora humi]
+Length=131
+
+ Score = 160 bits (406),  Expect = 2e-48, Method: Compositional matrix adjust.
+ Identities = 76/96 (79%), Positives = 82/96 (85%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG++C SALP +A DTLN IA  GPFP+SQDGVVFQNRE VLPTQ YGYYHEYTV+TP
+Sbjct  36   DVSGSICQSALPQQADDTLNEIADGGPFPFSQDGVVFQNREGVLPTQDYGYYHEYTVVTP  95
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA TRGTRRIITGE  QEDYYT DHYA+F LID TC
+Sbjct  96   GASTRGTRRIITGEGDQEDYYTSDHYASFYLIDFTC  131
+
+
+>WP_280670790.1 ribonuclease [Kitasatospora sp. MAP12-44]
+ MDH6115130.1 ribonuclease T1 [Kitasatospora sp. MAP12-44]
+Length=131
+
+ Score = 160 bits (405),  Expect = 3e-48, Method: Compositional matrix adjust.
+ Identities = 75/96 (78%), Positives = 81/96 (84%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG++C SALP +A DTLNLIA DGPFPYS+DG VFQNRE VLP +SYGYYHEYTV TP
+Sbjct  36   DVSGSICQSALPSQADDTLNLIAQDGPFPYSEDGEVFQNREGVLPDESYGYYHEYTVTTP  95
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GA  R TRRIITGEA QEDYYT DHY +FSLID TC
+Sbjct  96   GASNRSTRRIITGEAAQEDYYTSDHYESFSLIDFTC  131
+
+
+>WP_244293569.1 MULTISPECIES: ribonuclease domain-containing protein [Streptomycetaceae]
+ MEV8326845.1 ribonuclease domain-containing protein [Kitasatospora sp. NPDC056731]
+Length=110
+
+ Score = 158 bits (400),  Expect = 9e-48, Method: Compositional matrix adjust.
+ Identities = 73/95 (77%), Positives = 84/95 (88%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG+VCLSALP +A  TLNLIAS GPFPYSQDGVVFQN+E VLP+QSYGYYHEYTV+TPG
+Sbjct  16   VSGSVCLSALPSQARTTLNLIASGGPFPYSQDGVVFQNKERVLPSQSYGYYHEYTVVTPG  75
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRGTRR++TG+ T+EDYYTGDHY TF LI+  C
+Sbjct  76   SPTRGTRRVVTGQRTREDYYTGDHYVTFRLINFGC  110
+
+
+>WP_329491448.1 MULTISPECIES: ribonuclease [unclassified Kitasatospora]
+ MER6397103.1 ribonuclease [Kitasatospora sp. NPDC001603]
+ MEU1420867.1 ribonuclease [Kitasatospora sp. NPDC005751]
+ MEU1509763.1 ribonuclease [Kitasatospora sp. NPDC005748]
+ WUS68000.1 ribonuclease [Kitasatospora sp. NBC_01246]
+Length=130
+
+ Score = 158 bits (400),  Expect = 2e-47, Method: Compositional matrix adjust.
+ Identities = 74/95 (78%), Positives = 84/95 (88%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG+VCLSALP EA  TL+LIAS+GPFPYSQDGVVFQNRE VLP++S GYYHEYTV+TPG
+Sbjct  36   VSGSVCLSALPAEADHTLDLIASNGPFPYSQDGVVFQNRERVLPSRSTGYYHEYTVVTPG  95
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRI+TG+A +EDYYTGDHYATF LI  TC
+Sbjct  96   SPTRGARRIVTGQAYREDYYTGDHYATFRLIKFTC  130
+
+
+>WP_101383618.1 ribonuclease [Kitasatospora sp. GP30]
+Length=131
+
+ Score = 158 bits (400),  Expect = 2e-47, Method: Compositional matrix adjust.
+ Identities = 75/96 (78%), Positives = 80/96 (83%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG +C SALP +A DTLN IA+ GPFPYSQDGVVFQNRE VLP QSYGYYHEYTV+TP
+Sbjct  36   DVSGNICQSALPQQADDTLNEIANGGPFPYSQDGVVFQNREGVLPAQSYGYYHEYTVVTP  95
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            G  TRG RRIITGE  QEDYYT DHY+TF LID TC
+Sbjct  96   GISTRGARRIITGEGDQEDYYTSDHYSTFYLIDFTC  131
+
+
+>WP_035791877.1 ribonuclease domain-containing protein [Kitasatospora mediocidica]
+Length=131
+
+ Score = 158 bits (399),  Expect = 3e-47, Method: Compositional matrix adjust.
+ Identities = 75/96 (78%), Positives = 80/96 (83%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG VC SALP +A DTL+LIA DGPFP+SQDGVVF NRE VLP +  GYYHEYTVITP
+Sbjct  36   DVSGNVCQSALPSQADDTLSLIADDGPFPFSQDGVVFDNREGVLPDEPVGYYHEYTVITP  95
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GARTRGTRRIITGE  QEDYYT DHYATF  +D TC
+Sbjct  96   GARTRGTRRIITGEGNQEDYYTSDHYATFYAVDFTC  131
+
+
+>MDH6145951.1 ribonuclease T1 [Kitasatospora sp. GP30]
+Length=147
+
+ Score = 158 bits (400),  Expect = 3e-47, Method: Compositional matrix adjust.
+ Identities = 75/96 (78%), Positives = 80/96 (83%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG +C SALP +A DTLN IA+ GPFPYSQDGVVFQNRE VLP QSYGYYHEYTV+TP
+Sbjct  52   DVSGNICQSALPQQADDTLNEIANGGPFPYSQDGVVFQNREGVLPAQSYGYYHEYTVVTP  111
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            G  TRG RRIITGE  QEDYYT DHY+TF LID TC
+Sbjct  112  GISTRGARRIITGEGDQEDYYTSDHYSTFYLIDFTC  147
+
+
+>MEV7358426.1 ribonuclease domain-containing protein [Kitasatospora sp. NPDC091276]
+ MEV7930055.1 ribonuclease domain-containing protein [Kitasatospora sp. NPDC088779]
+ MEV7940452.1 ribonuclease domain-containing protein [Kitasatospora sp. NPDC088264]
+Length=110
+
+ Score = 156 bits (394),  Expect = 8e-47, Method: Compositional matrix adjust.
+ Identities = 73/95 (77%), Positives = 83/95 (87%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG+VCLSALP +A  TLNLIAS GPFPYSQDGVVFQN+E VLP+QS GYYHEYTV+TPG
+Sbjct  16   VSGSVCLSALPSQARTTLNLIASGGPFPYSQDGVVFQNKERVLPSQSSGYYHEYTVVTPG  75
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRGTRRI+TG+ T+EDYYTGDHY TF LI+  C
+Sbjct  76   SPTRGTRRIVTGQRTREDYYTGDHYVTFRLINFGC  110
+
+
+>GAA2246860.1 hypothetical protein GCM10010430_31110 [Kitasatospora cystarginea]
+Length=131
+
+ Score = 157 bits (396),  Expect = 8e-47, Method: Compositional matrix adjust.
+ Identities = 73/96 (76%), Positives = 81/96 (84%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSGT+C S LP +A DTL LI   GPFPYSQDGVVF NRE VLP++SYGYYHEYTV+TP
+Sbjct  36   DVSGTICQSELPSQADDTLALIDQGGPFPYSQDGVVFGNREGVLPSESYGYYHEYTVVTP  95
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            G+RTRGTRRIITGE  QEDYYT DHY+TF LID +C
+Sbjct  96   GSRTRGTRRIITGEGNQEDYYTSDHYSTFRLIDFSC  131
+
+
+>WP_280724257.1 ribonuclease domain-containing protein [Kitasatospora sp. MAA4]
+ MDH6133766.1 ribonuclease T1 [Kitasatospora sp. MAA4]
+Length=131
+
+ Score = 157 bits (396),  Expect = 9e-47, Method: Compositional matrix adjust.
+ Identities = 75/96 (78%), Positives = 82/96 (85%), Gaps = 0/96 (0%)
+
+Query  1    DVSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITP  60
+            DVSG+VC SALP +A DTL+LIASDGPFP+SQDGVVF NRE VLP +  GYYHEYTVITP
+Sbjct  36   DVSGSVCQSALPSQADDTLSLIASDGPFPFSQDGVVFDNREGVLPDEPVGYYHEYTVITP  95
+
+Query  61   GARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            GARTRGTRRIITGE +QEDYYT DHY TF  +D TC
+Sbjct  96   GARTRGTRRIITGEGSQEDYYTSDHYVTFYSVDFTC  131
+
+
+>WP_218203491.1 ribonuclease domain-containing protein [Kitasatospora aureofaciens]
+ MBV6700090.1 ribonuclease [Kitasatospora aureofaciens]
+Length=129
+
+ Score = 156 bits (395),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 73/95 (77%), Positives = 82/95 (86%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG VCL+ALP +A  TLNLIAS+GPFPYSQDGVVFQN+ SVLP QSYGYYHEYTV+TPG
+Sbjct  35   VSGNVCLTALPLQARTTLNLIASNGPFPYSQDGVVFQNKGSVLPRQSYGYYHEYTVVTPG  94
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            A TRGTRRI+TG+ + EDYYT DHYATF LI+  C
+Sbjct  95   APTRGTRRIVTGKRSHEDYYTSDHYATFRLINFGC  129
+
+
+>MEU6871585.1 ribonuclease [Streptomyces sp. NPDC046751]
+Length=135
+
+ Score = 156 bits (395),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 74/93 (80%), Positives = 80/93 (86%), Gaps = 0/93 (0%)
+
+Query  4    GTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPGAR  63
+            G+VC SALP +A DTL+LIA  GPFPYSQDGVVFQNRE VLP+QS GYYHEYTVITPG+ 
+Sbjct  43   GSVCYSALPSQAHDTLHLIAVGGPFPYSQDGVVFQNREGVLPSQSTGYYHEYTVITPGSP  102
+
+Query  64   TRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            TRG RRI+TGE  QEDYYTGDHYATF LIDQ C
+Sbjct  103  TRGARRIVTGEKAQEDYYTGDHYATFDLIDQGC  135
+
+
+>WP_350884154.1 ribonuclease [Kitasatospora sp. NPDC094016]
+ MER8104227.1 ribonuclease [Kitasatospora sp. NPDC094016]
+Length=110
+
+ Score = 155 bits (393),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 73/95 (77%), Positives = 82/95 (86%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG+VCLSALP +A  TLNLIAS GPFPYSQDGVVFQN+E VLP QS GYYHEYTV+TPG
+Sbjct  16   VSGSVCLSALPSQARTTLNLIASGGPFPYSQDGVVFQNKERVLPAQSSGYYHEYTVVTPG  75
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRGTRRI+TG+ T+EDYYTGDHY TF LI+  C
+Sbjct  76   SPTRGTRRIVTGQRTREDYYTGDHYVTFRLINFGC  110
+
+
+>MEV7601913.1 ribonuclease domain-containing protein [Kitasatospora sp. NPDC089797]
+Length=130
+
+ Score = 155 bits (392),  Expect = 3e-46, Method: Compositional matrix adjust.
+ Identities = 72/95 (76%), Positives = 80/95 (84%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG VC+SALP +A  TLNLIA  GPFPYSQDGVVF N+E VLP+Q YGYYHEYTV+TPG
+Sbjct  36   VSGKVCVSALPSQARTTLNLIARGGPFPYSQDGVVFTNKEGVLPSQRYGYYHEYTVVTPG  95
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            A TRGTRRI+TG+ + EDYYTGDHYATF LID  C
+Sbjct  96   APTRGTRRIVTGQRSHEDYYTGDHYATFRLIDLGC  130
+
+
+>WP_353785926.1 MULTISPECIES: ribonuclease domain-containing protein [unclassified 
+Streptomyces]
+ MES9590202.1 ribonuclease [Streptomyces sp. NPDC094045]
+ MEU2836536.1 ribonuclease [Streptomyces sp. NPDC007076]
+Length=135
+
+ Score = 155 bits (391),  Expect = 5e-46, Method: Compositional matrix adjust.
+ Identities = 73/93 (78%), Positives = 79/93 (85%), Gaps = 0/93 (0%)
+
+Query  4    GTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPGAR  63
+            G+VC SALP +A DTL+LI   GPFPYSQDGVVFQNRE VLP+QS GYYHEYTVITPG+ 
+Sbjct  43   GSVCYSALPSQAHDTLHLIDVGGPFPYSQDGVVFQNREGVLPSQSTGYYHEYTVITPGSP  102
+
+Query  64   TRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            TRG RRI+TGE  QEDYYTGDHYATF LIDQ C
+Sbjct  103  TRGARRIVTGEKAQEDYYTGDHYATFDLIDQGC  135
+
+
+>SCD97504.1 ribonuclease T1 [Streptomyces sp. DvalAA-43]
+Length=143
+
+ Score = 155 bits (391),  Expect = 6e-46, Method: Compositional matrix adjust.
+ Identities = 73/93 (78%), Positives = 79/93 (85%), Gaps = 0/93 (0%)
+
+Query  4    GTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPGAR  63
+            G+VC SALP +A DTL+LI   GPFPYSQDGVVFQNRE VLP+QS GYYHEYTVITPG+ 
+Sbjct  51   GSVCYSALPSQAHDTLHLIDVGGPFPYSQDGVVFQNREGVLPSQSTGYYHEYTVITPGSP  110
+
+Query  64   TRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            TRG RRI+TGE  QEDYYTGDHYATF LIDQ C
+Sbjct  111  TRGARRIVTGEKAQEDYYTGDHYATFDLIDQGC  143
+
+
+>MEU9077995.1 ribonuclease domain-containing protein [Kitasatospora sp. NPDC048538]
+ MEV6469076.1 ribonuclease domain-containing protein [Kitasatospora sp. NPDC051702]
+Length=130
+
+ Score = 154 bits (389),  Expect = 7e-46, Method: Compositional matrix adjust.
+ Identities = 71/95 (75%), Positives = 81/95 (85%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG+VCL+ALP +A  TLNLIAS+GPFPYSQDGVVFQN+E VLP QSYGYYHEYTV+TPG
+Sbjct  36   VSGSVCLTALPSQARTTLNLIASNGPFPYSQDGVVFQNKERVLPNQSYGYYHEYTVVTPG  95
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRI+TG+   EDYYTGDHYATF  I+  C
+Sbjct  96   SPTRGARRIVTGKRYHEDYYTGDHYATFRSINFGC  130
+
+
+>WP_093542058.1 MULTISPECIES: ribonuclease [unclassified Streptomyces]
+ MEE1750009.1 ribonuclease [Streptomyces sp. JV184]
+ MEU6922640.1 ribonuclease [Streptomyces sp. NPDC046631]
+ MEU9566262.1 ribonuclease [Streptomyces sp. NPDC048161]
+ MEV5623234.1 ribonuclease [Streptomyces sp. NPDC052507]
+ MEV6146906.1 ribonuclease [Streptomyces sp. NPDC051992]
+Length=140
+
+ Score = 154 bits (390),  Expect = 7e-46, Method: Compositional matrix adjust.
+ Identities = 73/93 (78%), Positives = 79/93 (85%), Gaps = 0/93 (0%)
+
+Query  4    GTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPGAR  63
+            G+VC SALP +A DTL+LI   GPFPYSQDGVVFQNRE VLP+QS GYYHEYTVITPG+ 
+Sbjct  48   GSVCYSALPSQAHDTLHLIDVGGPFPYSQDGVVFQNREGVLPSQSTGYYHEYTVITPGSP  107
+
+Query  64   TRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            TRG RRI+TGE  QEDYYTGDHYATF LIDQ C
+Sbjct  108  TRGARRIVTGEKAQEDYYTGDHYATFDLIDQGC  140
+
+
+>WP_329819756.1 ribonuclease [Streptomyces sp. JV185]
+ MEE1773034.1 ribonuclease [Streptomyces sp. JV185]
+Length=139
+
+ Score = 154 bits (390),  Expect = 7e-46, Method: Compositional matrix adjust.
+ Identities = 72/93 (77%), Positives = 80/93 (86%), Gaps = 0/93 (0%)
+
+Query  4    GTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPGAR  63
+            G++C SALP +A DTL+LI + GPFPYSQDGVVFQNRE VLP+QS GYYHEYTVITPG+ 
+Sbjct  47   GSICYSALPSQAHDTLDLIDAGGPFPYSQDGVVFQNREGVLPSQSTGYYHEYTVITPGSS  106
+
+Query  64   TRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            TRG RRI+TGE TQEDYYT DHYATF LIDQ C
+Sbjct  107  TRGARRIVTGERTQEDYYTSDHYATFDLIDQGC  139
+
+
+>WSK08441.1 ribonuclease [Kitasatospora sp. NBC_01300]
+Length=110
+
+ Score = 153 bits (387),  Expect = 8e-46, Method: Compositional matrix adjust.
+ Identities = 72/95 (76%), Positives = 82/95 (86%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG+VCLSALP +A  TLNLIAS GPFPYSQDGVVFQN+E VLP+Q  GYYHEYTV+TPG
+Sbjct  16   VSGSVCLSALPSQARTTLNLIASGGPFPYSQDGVVFQNKEHVLPSQPSGYYHEYTVVTPG  75
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRGTRRI+TG+ T+EDYYTGDHY TF LI+  C
+Sbjct  76   SPTRGTRRIVTGQRTREDYYTGDHYVTFRLINFGC  110
+
+
+>WP_345709251.1 ribonuclease domain-containing protein [Kitasatospora paranensis]
+Length=131
+
+ Score = 154 bits (389),  Expect = 9e-46, Method: Compositional matrix adjust.
+ Identities = 73/95 (77%), Positives = 81/95 (85%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG+VCLSALP +A  TL+LI SDGPFPY+QDGVVFQNRE VLP + YGYYHEYTV+TPG
+Sbjct  37   VSGSVCLSALPSQADHTLDLIDSDGPFPYAQDGVVFQNREGVLPAEPYGYYHEYTVVTPG  96
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRIITGE  QEDYYT DHYATF L+D TC
+Sbjct  97   SPTRGARRIITGEDYQEDYYTSDHYATFRLVDFTC  131
+
+
+>GHB27815.1 hypothetical protein GCM10010331_12680 [Streptomyces xanthochromogenes]
+Length=144
+
+ Score = 154 bits (390),  Expect = 9e-46, Method: Compositional matrix adjust.
+ Identities = 74/93 (80%), Positives = 78/93 (84%), Gaps = 0/93 (0%)
+
+Query  4    GTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPGAR  63
+            G+VC SALP +A DTLNLI   GPFPYSQDGVVFQNRE VLP QS GYYHEYTVITPGA 
+Sbjct  52   GSVCYSALPSQAHDTLNLIDQGGPFPYSQDGVVFQNREGVLPQQSSGYYHEYTVITPGAP  111
+
+Query  64   TRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            TRGTRRIITGE +QEDYYT DHYATF L+D  C
+Sbjct  112  TRGTRRIITGEKSQEDYYTADHYATFRLVDFGC  144
+
+
+>WP_350508801.1 ribonuclease domain-containing protein [Kitasatospora sp. NPDC096128]
+ MER7673239.1 ribonuclease domain-containing protein [Kitasatospora sp. NPDC096128]
+Length=128
+
+ Score = 154 bits (388),  Expect = 1e-45, Method: Compositional matrix adjust.
+ Identities = 72/95 (76%), Positives = 81/95 (85%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG VC+SALP +A  TL+LIA  GPFPYSQDGVVF N+E VLP+Q YGYYHEYTV+TPG
+Sbjct  34   VSGKVCVSALPSQARTTLDLIARGGPFPYSQDGVVFTNKEHVLPSQRYGYYHEYTVVTPG  93
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            A TRGTRRI+TG+ +QEDYYTGDHYATF LID  C
+Sbjct  94   APTRGTRRIVTGQRSQEDYYTGDHYATFRLIDFGC  128
+
+
+>WP_353782844.1 MULTISPECIES: ribonuclease domain-containing protein [unclassified 
+Streptomyces]
+ MES9557611.1 ribonuclease domain-containing protein [Streptomyces sp. NPDC094140]
+ MEV7257458.1 ribonuclease domain-containing protein [Streptomyces sp. NPDC093937]
+Length=135
+
+ Score = 154 bits (389),  Expect = 1e-45, Method: Compositional matrix adjust.
+ Identities = 73/93 (78%), Positives = 79/93 (85%), Gaps = 0/93 (0%)
+
+Query  4    GTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPGAR  63
+            G+VC SALP +A DTL+LI   GPFPYSQDGVVFQNRE VLP+QS GYYHEYTVITPG+ 
+Sbjct  43   GSVCYSALPSQAHDTLHLIDVGGPFPYSQDGVVFQNREGVLPSQSTGYYHEYTVITPGSP  102
+
+Query  64   TRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            TRG RRI+TGE  QEDYYTGDHYATF LIDQ C
+Sbjct  103  TRGARRIVTGEKAQEDYYTGDHYATFDLIDQGC  135
+
+
+>WP_189762362.1 ribonuclease domain-containing protein [Streptomyces xanthochromogenes]
+Length=141
+
+ Score = 154 bits (389),  Expect = 1e-45, Method: Compositional matrix adjust.
+ Identities = 74/93 (80%), Positives = 78/93 (84%), Gaps = 0/93 (0%)
+
+Query  4    GTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPGAR  63
+            G+VC SALP +A DTLNLI   GPFPYSQDGVVFQNRE VLP QS GYYHEYTVITPGA 
+Sbjct  49   GSVCYSALPSQAHDTLNLIDQGGPFPYSQDGVVFQNREGVLPQQSSGYYHEYTVITPGAP  108
+
+Query  64   TRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            TRGTRRIITGE +QEDYYT DHYATF L+D  C
+Sbjct  109  TRGTRRIITGEKSQEDYYTADHYATFRLVDFGC  141
+
+
+>WP_167153926.1 MULTISPECIES: ribonuclease domain-containing protein [Streptomyces]
+ WVT94927.1 ribonuclease [Streptomyces xanthochromogenes]
+Length=141
+
+ Score = 154 bits (389),  Expect = 1e-45, Method: Compositional matrix adjust.
+ Identities = 74/93 (80%), Positives = 78/93 (84%), Gaps = 0/93 (0%)
+
+Query  4    GTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPGAR  63
+            G+VC SALP +A DTLNLI   GPFPYSQDGVVFQNRE VLP QS GYYHEYTVITPGA 
+Sbjct  49   GSVCYSALPSQAHDTLNLIDQGGPFPYSQDGVVFQNREGVLPQQSSGYYHEYTVITPGAP  108
+
+Query  64   TRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            TRGTRRIITGE +QEDYYT DHYATF L+D  C
+Sbjct  109  TRGTRRIITGEKSQEDYYTADHYATFRLVDFGC  141
+
+
+>GAA5023492.1 hypothetical protein GCM10025734_80620 [Kitasatospora paranensis]
+Length=130
+
+ Score = 154 bits (388),  Expect = 1e-45, Method: Compositional matrix adjust.
+ Identities = 73/95 (77%), Positives = 81/95 (85%), Gaps = 0/95 (0%)
+
+Query  2    VSGTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPG  61
+            VSG+VCLSALP +A  TL+LI SDGPFPY+QDGVVFQNRE VLP + YGYYHEYTV+TPG
+Sbjct  36   VSGSVCLSALPSQADHTLDLIDSDGPFPYAQDGVVFQNREGVLPAEPYGYYHEYTVVTPG  95
+
+Query  62   ARTRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            + TRG RRIITGE  QEDYYT DHYATF L+D TC
+Sbjct  96   SPTRGARRIITGEDYQEDYYTSDHYATFRLVDFTC  130
+
+
+>MEV7718033.1 ribonuclease domain-containing protein [Streptomyces sp. NPDC088184]
+Length=135
+
+ Score = 154 bits (388),  Expect = 1e-45, Method: Compositional matrix adjust.
+ Identities = 73/93 (78%), Positives = 79/93 (85%), Gaps = 0/93 (0%)
+
+Query  4    GTVCLSALPPEATDTLNLIASDGPFPYSQDGVVFQNRESVLPTQSYGYYHEYTVITPGAR  63
+            G+VC SALP +A DTL+LI   GPFPYSQDGVVFQNRE VLP+QS GYYHEYTVITPG+ 
+Sbjct  43   GSVCYSALPSQAHDTLHLIDVGGPFPYSQDGVVFQNREGVLPSQSTGYYHEYTVITPGSP  102
+
+Query  64   TRGTRRIITGEATQEDYYTGDHYATFSLIDQTC  96
+            TRG RRI+TGE  QEDYYTGDHYATF LIDQ C
+Sbjct  103  TRGARRIVTGEKAQEDYYTGDHYATFDLIDQGC  135
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Jul 25, 2024  4:48 AM
+  Number of letters in database: 293,832,624,299
+  Number of sequences in database:  763,633,522
+
+Lambda      K        H
+   0.322    0.142    0.445 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 763633522
+Number of Hits to DB: 18555818
+Number of extensions: 14035
+Number of successful extensions: 2788
+Number of sequences better than 100: 190
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 2695
+Number of HSP's successfully gapped: 191
+Length of database: 293832624299
+T: 20
+A: 40
+X1: 16 (7.4 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (20.4 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
